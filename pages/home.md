@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "We build <strong>Open-Source</strong> solutions to the <strong>World's Greatest Challenges.</strong>"
-description: "We use Motorsports to develop the future of power systems."
+title: "We are a racing team moving the world towards a <strong>Carbon Negative Society.<\strong>"
+description: "We are building an open-source, Hydrogen fueled power unit for vehicles to bring us towards a cleaner future. "
 meta_description: "Licence to Fab uses motorsports to develop the future of power systems."
 meta_title: Licence to Fab
 subscribe: false

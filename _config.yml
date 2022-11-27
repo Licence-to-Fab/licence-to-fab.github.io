@@ -141,7 +141,7 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "Licence to Fab"
-  footer_description: "The power system of the future, through the adventure of motorsport."
+  footer_description: "Building an open-source, Hydrogen fueled power unit for vehicles to bring us towards a more carbon negative future."
   enable_social_media_icons: true
   enable_contact_details: false
   enable_menu_footer_primary: true
