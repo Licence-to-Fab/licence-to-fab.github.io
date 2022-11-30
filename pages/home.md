@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "We are a racing team using <strong>Hydrogen</strong> to build a <strong>Cleaner Future.</strong>"
+title: "We are a racing team and constructor using <strong>Hydrogen</strong> to build a <strong>Cleaner Future.</strong>"
 description: "We are building an open-source, Hydrogen fueled power unit for vehicles to bring us towards a more Carbon Negative future."
 meta_description: "Licence to Fab uses motorsports to develop the future of power systems."
 meta_title: Licence to Fab
