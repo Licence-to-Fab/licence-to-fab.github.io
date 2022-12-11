@@ -6,7 +6,7 @@ date: 2018-12-20
 weight: 3
 thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-2-1.webp"
-categories: ["Development"]
+categories: ["Engineering"]
 client: "Brisbane City Council"
 role: "Building Designer"
 gallery:

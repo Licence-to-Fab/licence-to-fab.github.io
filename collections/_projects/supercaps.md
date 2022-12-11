@@ -7,7 +7,7 @@ weight: 2
 thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-3-1.webp"
 client: "Region of Valencia"
-categories: ["Development"]
+categories: ["Engineering"]
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/project-3-1.webp"

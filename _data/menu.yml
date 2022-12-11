@@ -7,24 +7,24 @@ main:
     weight: 2
     child:
       - name: "the 2022 Bike—'Toothless'"
-        icon: "/assets/images/icons/wireframe-7.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
-        description: "Default Project layout"
+        icon: "/assets/images/gen/content/red-motorcycle.png"
+        icon_darkmode: "/assets/images/gen/content/red-motorcycle.png"
+        description: "A test-bed for hydrogen technology."
         url: /projects/toothless/
       - name: "Hydrogen Fuel Cell"
-        icon: "/assets/images/icons/wireframe-5.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
-        description: "Right side layout"
+        icon: "/assets/images/gen/content/fuel-cell.png"
+        icon_darkmode: "/assets/images/gen/content/fuel-cell.png"
+        description: "Fuel Cell stack design + integration. "
         url: /projects/hfc/
       - name: "Super Capacitors + Power Storage"
-        icon: "/assets/images/icons/wireframe-6.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
-        description: "Left side layout"
+        icon: "/assets/images/icons/cap.svg"
+        icon_darkmode: "/assets/images/icons/cap.svg"
+        description: "Open source capacitor bank, and power electronics."
         url: /projects/supercaps/
       - name: "Motors + Power Unit"
-        icon: "/assets/images/icons/wireframe-8.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
-        description: "Top layout"
+        icon: "/assets/images/icons/electric-motor.svg"
+        icon_darkmode: "/assets/images/icons/electric-motor.svg"
+        description: "Mechanical design of a gearbox, and integration with motors and motor control."
         url: /projects/motors/
   - name: Updates
     url: /blog/
