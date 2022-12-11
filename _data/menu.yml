@@ -7,8 +7,8 @@ main:
     weight: 2
     child:
       - name: "the 2022 Bike—'Toothless'"
-        icon: "/assets/images/gen/content/red-motorcycle.png"
-        icon_darkmode: "/assets/images/gen/content/red-motorcycle.png"
+        icon: "/assets/images/gen/content/Red-Motorcycle.png"
+        icon_darkmode: "/assets/images/gen/content/Red-Motorcycle.png"
         description: "A test-bed for hydrogen technology."
         url: /projects/toothless/
       - name: "Hydrogen Fuel Cell"
