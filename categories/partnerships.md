@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Hosting
+title: Partnerships
 ---

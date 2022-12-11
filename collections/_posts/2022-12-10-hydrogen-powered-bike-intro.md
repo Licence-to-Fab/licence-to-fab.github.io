@@ -5,8 +5,8 @@ date: 2022-12-10T09:07:30Z
 authors: ["Adi Mehrotra"]
 categories: ["Announcements", "Engineering"]
 description: A little bit of history on the project, and some brief details :) 
-thumbnail: "/assets/images/gen/blog/blog-18-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-18.webp"
+thumbnail: "/assets/images/gen/blog/hfc-2.png"
+image: ""
 comments: false
 subscribe: true
 ---

@@ -141,14 +141,14 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "Licence to Fab"
-  footer_description: "Building an open-source, Hydrogen fueled power unit for vehicles to bring us towards a more carbon negative future."
+  footer_description: "An MIT student team building an open-source, Hydrogen fueled power unit for vehicles to bring us towards a more carbon negative future."
   enable_social_media_icons: true
   enable_contact_details: false
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: false
-  footer_primary_menu_title: "Product"
-  footer_secondary_menu_title: "Company"
+  footer_primary_menu_title: "Research + Racing"
+  footer_secondary_menu_title: "Organization"
   footer_tertiary_menu_title: "Other"
 
 bottom:
