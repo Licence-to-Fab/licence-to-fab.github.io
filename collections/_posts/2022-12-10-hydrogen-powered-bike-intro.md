@@ -4,7 +4,7 @@ title: "We are building a hydrogen powered motorcycle!"
 date: 2022-12-10T09:07:30Z
 authors: ["Adi Mehrotra"]
 categories: ["Announcements", "Engineering"]
-description: A little bit of history on the project!
+description: A little bit of history on the project, and some brief details :) 
 thumbnail: "/assets/images/gen/blog/blog-18-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-18.webp"
 comments: false
