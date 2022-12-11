@@ -15,11 +15,11 @@ subscribe: true
 
 L2F hydrogen racing started as a class project for the [MIT 2.70 FUNdaMENTALs of Precision Product Design](https://web.mit.edu/2.70/) class and has grown into a MIT student team focusing on building a cleaner future with hydrogen. We are a re-vamping of MIT's Electric Vehicle team which has a long history of research into renewable energy, and electric powered vehicles both in the performance and practical spheres.
 
-Initially the goal was to build something cool, but through research for the project we found that sources and knowledge-bases for hydrogen-powered vehicles were limited in scope and much of the details of the technology were proprietary. At the end of a [prelminary white-paper](/papers/Motorcycle-Design-White-Paper-PDF.pdf) written for the class, we concluded that a project that focused on an open-source hydrogen engine would be important to building a cleaner future.
+Initially the goal was to build something cool, but through research for the project we found that sources and knowledge-bases for hydrogen-powered vehicles were limited in scope and much of the details of the technology were proprietary. We concluded that a project that focuses on an open-source hydrogen engine would be important to building a cleaner future.
 
 > Our goal with this project is to develop a platform to analyze the performance and potential of Hydrogen Fuel Cell that can serve as a robust test bed for future development towards alternatives to BEVs. What we really want to create is a open-source knowledge base. A base that others can use to develop this technology even further to implementation. The open-source community has solved many of the world’s challenges in the past by sharing knowledge and collaborating on difficult problems—we believe this is necessary right now for the realization of FCEVs.
 
-Over the next year we hope to realize our design as a fully assembled motorcycle and verify our design methodology on the track. We have also identified key future research areas which are presented in the [prelminary white-paper](/papers/Motorcycle-Design-White-Paper-PDF.pdf).
+Over the next year we hope to realize our design as a fully assembled motorcycle and verify our design methodology on the track. We have also identified key future research areas which are presented in a paper we will release soon.
 
 > We believe that hydrogen could be the future of transportation if design surrounding these vehicles is intelligent and safe. Hydrogen vehicles solve the long charge times of electic vehicles, address the power density issues of solar vehicles, and (with super capacitor technology) can also eliminate the need for heavy, and harmful lithium batteries. 
 
