@@ -4,43 +4,66 @@ title: "Welcome to our Fab-Lab."
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
 description: "We build things, and we build them to make the world a better place."
-image: "/assets/images/gen/content/content-5.webp"
+image: "/assets/images/gen/content/fab_lab.png"
 ---
 
-# Creating Modern Websites
+# We want to build a cleaner world.
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+Let's cut to the chase.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+As a society, we need to find ways to reduce our carbon footprint in pretty much all of our activities. Focusing on impoving our climate won't just improve the well-being of the animals, and plants that share this planet with us, but will help mitigate multitudes of disaster for millions around the world. Sea level rise, crop failures due to drought, and the latest breed of superstorms are part of a new, and terrifying reality faced by communities, even today. 
 
-## What is Web Design?
+We can also agree that transportation is up there on the list of great challenges. Battery-powered Electric Vehicles (BEVs) initially promised to be the solution to internal combustion, but long charge times, and general safety and environmental concerns surrounding the use of Lithum made us realize that Lithum was more of a starting point. It was a stop on the road to something bigger. We believe the 'something bigger' is hydrogen based on its successful use in fuel cells, and its high energy density (120 MJ/kg). 
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+So, in one sentence, what do we want to do?
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+> We want to build the first ever truly open-source, well-documented, rigorously-tested, hydrogen-powered engine to facilitate the development of hydrogen vehicles to bring us towards a more carbon negative future. 
 
-## Front-end Development
+Another issue we identified in our research, is the fact that no good, centralized knowledge-base exists for the development of hydrogen vehicles. Information is generally proprietary, confusing, or unclear. Therefor, we also wish to serve as a central knowledge-base, combining information on hydrogen, while presenting and verifying design methodologies for vehicles in order to facilitate development and discussion.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+> All our designs, data, and results will be open-sourced including drawbacks, limitations, failures, and errors because if we cannot admit our flaws, how will we be able to learn?
 
-> As a UX designer, you should consider the Why, What and How of product use.
+So we're going to build engines, and integrate them into vehicles. Then we will seek to push our builds to the limits of what they are capable of to craft a truly awesome power unit. Performance, reliability, and efficiency will be at the core of what we do. And safety is paramount. Then we will publish the results for individuals, and organizations to use, free-of-charge.
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+## White-paper on Hydrogen Fuel Cell Vehicle Design
 
-## Design Systems
+Read our [white paper](https://pcb.mit.edu/lectures/lecture_01/FINAL%20PAPER%20PDF.pdf) from the 2.70 FUNdaMENTALs of Precision Product Design Class in the Fall of 2022. As stated in the paper, we seek to develop an end-to-end design methodology for hydrogen powered vehicles, and verify it on real hardware.
 
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/engine.jpg" title="Mercedes F1 Engine" caption="From Racing365" alt="TEMP ENGINE PHOTO" link="https://racingnews365.com/formula-1-engine-rules-for-2021" target="\_blank" %}
 
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
+# We work in the following research areas.
 
-## Process
+We work in four key research areas we identified based on market research, and literature review of the field of hydrogen-powered vehicles (see the above white-paper).
 
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
+### Hydrogen Fuel Cell Technology, Storage, and Production
 
-- User experience research
-- Visual design and illustration
-- Programming and coding
+Fuel Cells are expensive, especially PEM fuel cells. We want to use intelligent manufacturing and scaling to make the techology more acessible, and improve their efficiency and energy density. Hydrogen storage on vehicles must be secure and safe; we seek to improve on current methods to ensure safe operation of these vehicles. Hydrogen generation is difficult, green hydrogen generation more so. We seek to understand the methods of green hydrogen generation and attempt to improve upon them.
 
-![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
+We will not be looking into Hydrogen Combustion at this time. Combustion produces harmful greenhouse gasses.
 
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+### Power Storage
+
+The limitations of hydrogen fuel cells (such as a lack of regenerative braking capacity) are often mitigated by the use of a power storage element such as a lithium battery. Is it our belief that the hybrid combination of storage element and a hydrogen fuel cell can lead to a more effective power train. We want to look into supercapacitors as an alternative to lithium batteries and help develop a set of associated, open-source power electronics for the integration of super capacitors with hydrogen fuel cells.
+
+### Powertrains, Motors, + Motor Control
+
+Higher efficiency motor and motor controller designs that can provide the same mechanical power output at greater efficiencies would allow a significant reduction in the required size of fuel cells and storage elements in a vehicle system. This would make the technology more compact, less expensive, and more practical to implement. Therefor we want to look into efficient electric motor and inverter design, as well as optimal gear ratios and transmissions for vehicles. 
+
+**We will establish key partnerships within industry and academia in an effort to achieve the listed research goals.**
+
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/motorcrew.jpg" title="Motocrew Ducati 848" caption="From returnofthecaferacers.com" alt="TEMP MOTORCYCLE PHOTO" link="https://www.returnofthecaferacers.com/ducati-cafe-racer/motocrew-848/" target="\_blank" %}
+
+# We want to prove our work on the racetrack and in the real world.
+
+We're going to build real things, starting with racing vehicles and moving to more practical vehicles in the future. It's no secret that racing has produced many innovations that make consumer cars more efficient, and has produced a deeper understanding of vehicles in general. As of 2022, our first project will be a hydrogen-powered motorcycle that will ideally be entered in compeition sometime in the year 2024.
+
+> We believe that using rigorous engineering and science, we can build a cleaner future. We have a passion for speed, and an understanding that this does not have to clash with our goals to be a carbon negative society. And through motorsport we seek to push renewable technologies to the limit, to develop the power unit of the future. We want this power unit to be affordable, fully open-source, and be proven on the most aggressive testbed known to humankind—the racetrack.
+
+We will learn from each project and each race through detailed analysis, and data collection which will also be provided open-source to the community. We will focus on performance, and on practicality as well. And we will do this with the attention to detail, and craftsmanship that comes with a licence to fab. 
+
+# Little bit of history. 
+
+Licence to Fab is a re-vamping of MIT's Electric Vehicle Team. A team with a strong pedigree of racing, as well as research contributions to the field of electric vehicles. We are a student team with industry partners, with a home in MIT's Edgerton Center. If you are an MIT student who wants to join the team, reach out! If you are a company, organization, individual, or other non-MIT affiliate who wishes to work with us. Reach out as well, we would be happy to work with you.
+
+All our work is OPEN SOURCE and avaliable under a [creative-commons, attribution, share-alike license](https://creativecommons.org/licenses/by-sa/4.0/).
+
