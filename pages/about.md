@@ -59,7 +59,9 @@ We're going to build real things, starting with racing vehicles and moving to mo
 
 > We believe that using rigorous engineering and science, we can build a cleaner future. We have a passion for speed, and an understanding that this does not have to clash with our goals to be a carbon negative society. And through motorsport we seek to push renewable technologies to the limit, to develop the power unit of the future. We want this power unit to be affordable, fully open-source, and be proven on the most aggressive testbed known to humankind—the racetrack.
 
-We will learn from each project and each race through detailed analysis, and data collection which will also be provided open-source to the community. We will focus on performance, and on practicality as well. And we will do this with the attention to detail, and craftsmanship that comes with a licence to fab. 
+We will learn from each project and each race through detailed analysis, and data collection which will also be provided open-source to the community. We will focus on performance, and on practicality as well.
+
+**And we will do this with the attention to detail, and craftsmanship that comes with a licence to fab.**
 
 # Little bit of history. 
 
