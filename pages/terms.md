@@ -9,6 +9,12 @@ Please read these terms and conditions carefully before using Our Service.
 
 # Interpretation and Definitions
 
+All things on this website are open source WITH EXCEPTIONS (like anything we have linked to externally, or is a product of one of our partners follows the terms and conditions of use of that partner and does not fall under the T+C of L2F)
+
+L2f is a project under the Electric Vehicle Team of the Massachusetts Instutute of TEchnology. Therefor all terms and conditions written for and pertaining to the MIT EVT or MIT as an institute including the use of name apply wether they are explicitly listed on this page or not. Learn more here: 
+
+Credit where credit is due please! Feedback when using our work please! 
+
 ## Interpretation
 
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.

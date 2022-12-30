@@ -57,24 +57,24 @@ footer_secondary:
   - name: Contact
     url: /contact/
     weight: 4
-  - name: Privacy Policy
-    url: /privacy-policy/
+  - name: Accessibility
+    url: https://accessibility.mit.edu
     weight: 1
   - name: Terms and Conditions
     url: /terms-and-conditions/
     weight: 2
 
 footer_tertiary:
-  - name: Privacy Policy
-    url: /privacy-policy/
+  - name: Accessibility
+    url: https://accessibility.mit.edu
     weight: 1
   - name: Terms and Conditions
     url: /terms-and-conditions/
     weight: 2
 
 bottom:
-  - name: Privacy Policy
-    url: /privacy-policy/
+  - name: Accessibility
+    url: https://accessibility.mit.edu
     weight: 3
   - name: Terms and Conditions
     url: /terms-and-conditions/
