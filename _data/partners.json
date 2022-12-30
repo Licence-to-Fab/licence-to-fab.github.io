@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Github",
+    "image": "/assets/images/partners/github.svg"
+  },
+  {
+    "title": "Algolia",
+    "image": "/assets/images/partners/algolia.svg"
+  },
+  {
+    "title": "Jekyll",
+    "image": "/assets/images/partners/jekyll.svg"
+  },
+  {
+    "title": "Netlify",
+    "image": "/assets/images/partners/netlify.svg"
+  },
+  {
+    "title": "Sass",
+    "image": "/assets/images/partners/sass.svg"
+  }
+]

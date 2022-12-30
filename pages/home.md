@@ -26,4 +26,7 @@ posts:
   view_more_button_link: ""
   view_more_button_align: ""
   columns: 3 # 1 | 2 | 3 | 4
+
+partners:
+  limit: 5
 ---

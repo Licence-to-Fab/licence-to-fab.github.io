@@ -63,6 +63,16 @@ body_classes: page-home
 {% endif %}
 
 <!--INSERT THE SPONSORS / PARTNERS THING HERE!!!-->
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12"></div>
+      {% include framework/blocks/sections/partners.html %}
+      </div>
+    </div>
+  </div>
+</div>
+<!--I THINK THE VARIABLE SITE.DATA.PARTNERS IS NOT BEING ASSIGNED-->
 
 {% if site.mailchimp.form_action_url %}
 {% if page.subscribe %}
