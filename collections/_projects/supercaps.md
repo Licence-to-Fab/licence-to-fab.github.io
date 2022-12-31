@@ -4,8 +4,8 @@ title: "Supercapacitor Power Bank + Power Storage"
 description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
 date: 2018-12-20
 weight: 2
-thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-3-1.webp"
+thumbnail: "/assets/images/gen/content/batt.jpg"
+image: "/assets/images/gen/content/batt.jpg"
 client: "Region of Valencia"
 categories: ["Engineering"]
 role: "Building Designer"

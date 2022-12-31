@@ -5,8 +5,8 @@ description: "An open source machine learning library written in Python"
 date: 2018-12-20
 weight: 4
 permalink: /projects/motors/
-thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"
-image: "/assets/images/gen/projects/project-4-1.webp"
+thumbnail: "/assets/images/gen/content/engine.jpg"
+image: "/assets/images/gen/content/engine.jpg"
 client: "RGA Agency"
 categories: ["Engineering"]
 role: "Building Designer"

@@ -4,8 +4,8 @@ title: "Hydrogen Fuel Cell"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
 date: 2018-11-03T10:20:00Z
 weight: 1
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-1-2.webp"
+thumbnail: "/assets/images/gen/content/fuel_cell.png"
+image: "/assets/images/gen/content/fuel_cell.png"
 categories: ["Engineering"]
 client: "Dubai Star"
 role: "Building Designer"
