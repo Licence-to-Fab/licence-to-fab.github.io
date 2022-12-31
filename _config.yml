@@ -85,7 +85,7 @@ colors:
   primary_text_dark: "#fdfcf9"
   background_dark: "#000000"
   background_2_dark: "#000000"
-  background_3_dark: "#000000"
+  background_3_dark: "#9C8E71"
   text_dark: "#f5f5ec"
   text_2_dark: "#929eaf"
 
@@ -115,10 +115,10 @@ header:
   fixed: false
 
 darkmode:
-  enable_dark_mode: true
-  show_dark_mode_toggle_in_header: true
+  enable_dark_mode: false
+  show_dark_mode_toggle_in_header: false
   show_dark_mode_toggle_in_bottom: false
-  show_dark_mode_toggle_in_mobile_menu: true
+  show_dark_mode_toggle_in_mobile_menu: false
 
 analytics:
   google_analytics_id: ""
@@ -152,7 +152,7 @@ footer:
   footer_tertiary_menu_title: "Other"
 
 bottom:
-  enable_bottom: false # show/hide the entire bottom (below the footer)
+  enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: false # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2022 Massachusetts Institute of Technology"
+  copyright_text: "© 2022 Massachusetts Institute of Technology | Licence to Fab"
 
