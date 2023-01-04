@@ -1,0 +1,42 @@
+I"J<h1 id="partnerships-statement">Partnerships Statement</h1>
+
+<p>Our team focuses on establishing key partnerships with industry</p>
+
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12"></div>
+      
+
+
+<div class="partners">
+  <div class="row justify-content-left align-items-center">
+    
+    <div class="col-4 col-lg-2 text-center mb-1 mt-1">
+      <img src="/assets/images/partners/github.svg" alt="Github" />
+    </div>
+    
+    <div class="col-4 col-lg-2 text-center mb-1 mt-1">
+      <img src="/assets/images/partners/algolia.svg" alt="Algolia" />
+    </div>
+    
+    <div class="col-4 col-lg-2 text-center mb-1 mt-1">
+      <img src="/assets/images/partners/jekyll.svg" alt="Jekyll" />
+    </div>
+    
+    <div class="col-4 col-lg-2 text-center mb-1 mt-1">
+      <img src="/assets/images/partners/netlify.svg" alt="Netlify" />
+    </div>
+    
+    <div class="col-4 col-lg-2 text-center mb-1 mt-1">
+      <img src="/assets/images/partners/sass.svg" alt="Sass" />
+    </div>
+    
+  </div>
+</div>
+      </div>
+    </div>
+  </div>
+<p>&lt;/div&gt;</p>
+
+:ET

@@ -65,7 +65,9 @@ We will learn from each project and each race through detailed analysis, and dat
 
 # Little bit of history. 
 
-Licence to Fab is a re-vamping of MIT's Electric Vehicle Team. A team with a strong pedigree of racing, as well as research contributions to the field of electric vehicles. We are a student team with industry partners, with a home in MIT's Edgerton Center. If you are an MIT student who wants to join the team, reach out! If you are a company, organization, individual, or other non-MIT affiliate who wishes to work with us. Reach out as well, we would be happy to work with you.
+Licence to Fab is a re-vamping of MIT's Electric Vehicle Team. A team with a strong pedigree of racing, as well as research contributions to the field of electric vehicles. We are a student team with industry partners, with a home in MIT's Edgerton Center. If you are an MIT student who wants to join the team, reach out! If you are a company, organization, individual, or other non-MIT affiliate who wishes to work with us. Reach out as well, we would be happy to work with you. [l2f@mit.edu](mailto:l2f@mit.edu)
+
+For industry partners, please see our [patners page](../partners) for more information.
 
 All our work is OPEN SOURCE and avaliable under a [creative-commons, attribution, share-alike license](https://creativecommons.org/licenses/by-sa/4.0/).
 
