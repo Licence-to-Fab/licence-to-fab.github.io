@@ -23,7 +23,7 @@ We focus on building partnerships with companies that are addressing our key are
 Additionally, we are looking for partners that can provide the following to support our organization's work. 
 
 - __Manufacturing + Facilities Support__, facilities enabling vehicle dynamometer testing and wind tunnel testing, and manufacturing support in metal casting, metal 3D printing, metal fabrication and welding, are all services we need to develop our vehicles and engines.
-- __Automotive Part Supply__, our focus is developing hydrogen for the automotive industry. Therefor our test platforms use many automotive parts that come at cost to us. We're looking for a partner interested in providing discounted or sponsored automotive parts such as brake system parts, lights, batteries, and other vehicle components.
+- __Automotive Part Supply__, our focus is developing hydrogen for the automotive industry. Therefor our test platforms use many automotive parts that come at cost to us. We're looking for a partner interested in providing discounted or sponsored automotive parts such as brake system parts, lights, semiconductor electronics, batteries, and other vehicle components.
 - __Logistics Support__, this includes shipping of the vehicle or other delicate parts to racetracks and other facilities for competition or testing.
 - __General Funding__, we are always open to general funding to support our operations. Any donations to our work are deeply appreciated and allow us to continue the important work we do as an organization.
 
@@ -74,9 +74,9 @@ That being said, we are comitted to working with organizations that are actively
 
 ## Levels of Partnership
 
-- __Primary Partners__, partners we do the most active development with, support exceeds 10000USD in value (in-kind or monetary), and include engineering support.
+- __Primary Partners__, partners we do the most active development with, support exceeds 10000USD in value (in-kind or monetary), and includes engineering support.
 - __Racing Partners__, partners that provide significant support for our operations (in-kind or monetary) in the area of 5000USD or more.
-- __Supporting Partners__, parnters that provide support for our operations (in-kind or monetary) in the area of 1000USD or more.
+- __Supporting Partners__, partners that provide support for our operations (in-kind or monetary) in the area of 1000USD or more.
 
 We consider any support below 1000USD a tax-deductible __donation__ that we graciously accept with thanks.  
 
@@ -86,17 +86,19 @@ __Primary Partners__ recieve the following benefits from support:
 - Monthly or bi-monthly meetings with the core L2F engineering team to discuss project progress and direction.
 - Detailed initial copies of test data, results, or engineering reports.
 - Name and logo on website, vehicle, team apparel, and support vehicles.
+- Team representation @ partner events.
 - Social media post/blog post/or similar.
 
 *To qualify as a primary partner, your organization must provide direct engineering support for the integration of your products onto our platform*
 
 __Racing Partners__ recieve the following benefits from support:
 - Name and logo on website, vehicle, team apparel, and support vehicles.
-- Bi-annual newsletter or updates about team activities, updates on team activities.
+- Bi-annual newsletter, or updates on team activities.
 - Social media post/blog post/or similar.
 
 __Supporting Partners__ recieve the following benefits from support:
 - Name and logo on website, team apparel, and support vehicles.
+- Social media post/blog post/or similar.
 
 __Donations__ recieve a tax-deductible reciept along with a thank-you letter, and their name on the donors section of this page of our website.
 
