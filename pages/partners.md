@@ -53,6 +53,10 @@ That being said, we are comitted to working with organizations that are actively
 
 ### Supporting Partners
 
+<img src="../../sponsor_logos/madhouse/logo.png"  width="40%">
+
+[Madhouse Motors](https://www.madhousemotors.com)
+
 ### Donors
 - The Mehrotra Family
 
