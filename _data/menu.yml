@@ -54,6 +54,8 @@ footer_secondary:
   - name: About
     url: /about/
     weight: 3
+  - name: "MIT Electric Vehicle Team"
+    url: https://mit.edu/evt/
   - name: Contact
     url: mailto:l2f@mit.edu
     weight: 4
