@@ -1,4 +1,4 @@
-I"�<h1 id="building-a-cleaner-future-together">Building a cleaner future, together.</h1>
+I"�!<h1 id="building-a-cleaner-future-together">Building a cleaner future, together.</h1>
 
 <p>We establish key partnerships with industry, and within academia to further our mission to enable the development of hydrogen-powered vehicles. This is absolutely critical to the work we do, we cannot hope to reframe the way industry thinks about vehicle power systems without fully understanding the issues relating to developing green transportation from the people actually developing it. Our partners aren’t just sponsors, we work directly with them, and their core engineering teams to share knowledge and limitations, openly and fairly.</p>
 
@@ -30,38 +30,51 @@
 
 <h2 id="current-partners">Current Partners</h2>
 
+<!--
+
+
 <div class="partners">
   <div class="row justify-content-left align-items-center">
     
     <div class="col-4 col-lg-2 text-center mb-1 mt-1">
-      <img src="/assets/images/partners/github.svg" alt="Github" />
+      <img src="/sponsor_logos/Doosan/doosan_black.png" alt="Doosan Mobility Innovation" />
     </div>
     
     <div class="col-4 col-lg-2 text-center mb-1 mt-1">
-      <img src="/assets/images/partners/algolia.svg" alt="Algolia" />
+      <img src="/sponsor_logos/ec/logo_black.svg" alt="MIT Edgerton Center" />
     </div>
     
     <div class="col-4 col-lg-2 text-center mb-1 mt-1">
-      <img src="/assets/images/partners/jekyll.svg" alt="Jekyll" />
-    </div>
-    
-    <div class="col-4 col-lg-2 text-center mb-1 mt-1">
-      <img src="/assets/images/partners/netlify.svg" alt="Netlify" />
-    </div>
-    
-    <div class="col-4 col-lg-2 text-center mb-1 mt-1">
-      <img src="/assets/images/partners/sass.svg" alt="Sass" />
+      <img src="/sponsor_logos/palmer/logo_black.png" alt="Palmer Motorsports Park" />
     </div>
     
   </div>
-</div>
+</div>-->
 
-<p><strong>Donors:</strong></p>
+<h3 id="primary-partners">Primary Partners</h3>
+
+<p><img src="../../sponsor_logos/Doosan/doosan_black.png" width="40%" /></p>
+
+<p><a href="http://www.doosanmobility.com/en/">Doosan Mobility Innovation</a></p>
+
+<p><img src="../../sponsor_logos/ec/logo_black.svg" width="40%" /></p>
+
+<p><a href="https://edgerton.mit.edu">MIT Edgerton Center</a></p>
+
+<h3 id="racing-partners">Racing Partners</h3>
+
+<p><img src="../../sponsor_logos/palmer/logo_black.png" width="40%" /></p>
+
+<p><a href="https://palmermotorsportspark.com">Palmer Motorsports Park</a></p>
+
+<h3 id="supporting-partners">Supporting Partners</h3>
+
+<h3 id="donors">Donors</h3>
 <ul>
   <li>The Mehrotra Family</li>
 </ul>
 
-<p><strong>Special Thank You To:</strong></p>
+<h3 id="special-thank-you-to">Special Thank You To</h3>
 <ul>
   <li>Professor Alex Slocum + Steven Burcat</li>
   <li>Ed Moriarty, Chris, Sandi, + the Edgerton Center Staff</li>
@@ -69,6 +82,8 @@
   <li>Jack Whipple @ MIT D-Lab</li>
   <li>Dan Gilbert @ MIT LMP</li>
   <li>Quang Kieu</li>
+  <li><a href="http://mitsolar.com">the MIT Solar Electric Vehicle Team</a></li>
+  <li><a href="http://miters.mit.edu">MIT Electronics Research Society (MITERS)</a></li>
 </ul>
 
 <h1 id="partnership-information">Partnership Information</h1>
@@ -81,24 +96,42 @@
   <li><strong>Supporting Partners</strong>, parnters that provide support for our operations (in-kind or monetary) in the area of 1000USD or more.</li>
 </ul>
 
-<p>We consider any support below 1000USD a <strong>donation</strong> that we graciously accept and thank you for.</p>
+<p>We consider any support below 1000USD a tax-deductible <strong>donation</strong> that we graciously accept with thanks.</p>
 
 <h2 id="partnership-benefits">Partnership Benefits</h2>
 
 <p><strong>Primary Partners</strong> recieve the following benefits from support:</p>
+<ul>
+  <li>Monthly or bi-monthly meetings with the core L2F engineering team to discuss project progress and direction.</li>
+  <li>Detailed initial copies of test data, results, or engineering reports.</li>
+  <li>Name and logo on website, vehicle, team apparel, and support vehicles.</li>
+  <li>Social media post/blog post/or similar.</li>
+</ul>
+
+<p><em>To qualify as a primary partner, your organization must provide direct engineering support for the integration of your products onto our platform</em></p>
 
 <p><strong>Racing Partners</strong> recieve the following benefits from support:</p>
+<ul>
+  <li>Name and logo on website, vehicle, team apparel, and support vehicles.</li>
+  <li>Bi-annual newsletter or updates about team activities, updates on team activities.</li>
+  <li>Social media post/blog post/or similar.</li>
+</ul>
 
 <p><strong>Supporting Partners</strong> recieve the following benefits from support:</p>
+<ul>
+  <li>Name and logo on website, team apparel, and support vehicles.</li>
+</ul>
 
 <p><strong>Donations</strong> recieve a tax-deductible reciept along with a thank-you letter, and their name on the donors section of this page of our website.</p>
 
 <h2 id="reach-out-to-us-we-want-to-work-with-you">Reach out to us! We want to work with you!</h2>
 
-<p>If your organization is developing technology you believe can bring us a step closer towards a greener future, you’d like to openly collaborate on solutions to the climate crisis, or you’d simply like to support our work as an organization, reach out. We’re open to working with anyone who wishes to build a cleaner, better world.</p>
+<p>If your <strong>organization</strong> is developing technology you believe can bring us a step closer towards a greener future, you’d like to openly collaborate on solutions to the climate crisis, or you’d simply like to support our work as an organization, reach out. We’re open to working with anyone who wishes to build a cleaner, better world.</p>
 
-<p>If you’re an individual or non-MIT affiliate, and would like to work with use, reach out as well. We always have space for more friends.</p>
+<p>If you’re an <strong>individual or non-MIT affiliate</strong>, and would like to work with use, reach out as well. We always have space for more friends.</p>
 
-<p><a href="mailto:l2f@mit.edu">l2f@mit.edu</a></p>
+<p>Licence to Fab @ <a href="mailto:l2f@mit.edu">l2f@mit.edu</a></p>
+
+<p>Interested in <strong>recruiting</strong> with our team? Email us!</p>
 
 :ET

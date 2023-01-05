@@ -1,22 +1,14 @@
 [
   {
-    "title": "Github",
-    "image": "/assets/images/partners/github.svg"
+    "title": "Doosan Mobility Innovation",
+    "image": "/sponsor_logos/Doosan/doosan_black.png"
   },
   {
-    "title": "Algolia",
-    "image": "/assets/images/partners/algolia.svg"
+    "title": "MIT Edgerton Center",
+    "image": "/sponsor_logos/ec/logo_black.svg"
   },
   {
-    "title": "Jekyll",
-    "image": "/assets/images/partners/jekyll.svg"
-  },
-  {
-    "title": "Netlify",
-    "image": "/assets/images/partners/netlify.svg"
-  },
-  {
-    "title": "Sass",
-    "image": "/assets/images/partners/sass.svg"
+    "title": "Palmer Motorsports Park",
+    "image": "/sponsor_logos/palmer/logo_black.png"
   }
 ]
