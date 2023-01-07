@@ -1,13 +1,13 @@
 ---
 layout: project-top
-title: "Electric Power Unit"
+title: "Electric Power Unit (V1)"
 description: "An open source machine learning library written in Python"
 date: 2018-12-20
 weight: 4
 permalink: /projects/motors/
-thumbnail: "/assets/images/gen/content/engine.jpg"
-image: "/assets/images/gen/content/engine.jpg"
-client: "RGA Agency"
+thumbnail: "/assets/images/gen/content/gb.jpg"
+image: "/assets/images/gen/content/gb.jpg"
+client: "Detailed design + documentation"
 categories: ["Engineering"]
 role: "Building Designer"
 gallery:

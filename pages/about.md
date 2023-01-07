@@ -29,7 +29,7 @@ So we're going to build engines, and integrate them into vehicles. Then we will 
 
 Read our [white paper](https://pcb.mit.edu/lectures/lecture_01/FINAL%20PAPER%20PDF.pdf) from the 2.70 FUNdaMENTALs of Precision Product Design Class in the Fall of 2022. As stated in the paper, we seek to develop an end-to-end design methodology for hydrogen powered vehicles, and verify it on real hardware.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/gb_frame.jpg" title="Engine / Frame Mating" caption="2022 Bike w/ V1 Power Unit" alt="Assembly of 2022 Bike" link="" target="\_blank" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/gb_zoomed.jpg" title="V1 Power Unit" caption="Gearbox + Motor Assembly" alt="Gearbox for V1 Power Unit" link="" target="\_blank" %}
 
 # We work in the following research areas.
 
@@ -51,7 +51,7 @@ Higher efficiency motor and motor controller designs that can provide the same m
 
 **We will establish key partnerships within industry and academia in an effort to achieve the listed research goals.**
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/gb_zoomed.jpg" title="V1 Power Unit" caption="Gearbox + Motor Assembly" alt="Gearbox for V1 Power Unit" link="" target="\_blank" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/bike.jpg" title="2022 Bike Toothless" caption="(in progress)" alt="2022 Bike" link="" target="\_blank" %}
 
 # We want to prove our work on the racetrack and in the real world.
 

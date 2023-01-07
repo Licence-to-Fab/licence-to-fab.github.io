@@ -4,10 +4,10 @@ title: "the 2022 Bike—'Toothless'"
 description: "Breathing new life into old industrial estates"
 date: 2018-12-20
 weight: 3
-thumbnail: "/assets/images/gen/content/motorcrew.jpg"
-image: "/assets/images/gen/content/motorcrew.jpg"
+thumbnail: "/assets/images/gen/content/bike-2.jpg"
+image: "/assets/images/gen/content/bike-2.jpg"
 categories: ["Engineering"]
-client: "Brisbane City Council"
+client: "The bike + races + data"
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/project-2-1.webp"
