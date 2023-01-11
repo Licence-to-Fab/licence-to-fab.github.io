@@ -34,6 +34,3 @@ Our goals are to build an open-source set of hardware for hydrogen powered vehic
 [Toyota Hydrogen Fuel Cell Trucks](https://pressroom.toyota.com/trucking-world-endorses-toyotas-hydrogen-powered-fuel-cells-as-a-step-toward-a-cleaner-planet/)
 
 [Toyota Unveils Hydrogen Pickup Truck + SUV](https://www.foxnews.com/auto/toyota-hydrogen-powered-pickup-suv)
-
-
-
