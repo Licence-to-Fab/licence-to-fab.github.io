@@ -49,11 +49,9 @@ That being said, we are comitted to working with organizations that are actively
 
 ### Racing Partners
 
-<!--
 <img src="../../sponsor_logos/palmer/logo_black.png"  width="40%">
 
 [Palmer Motorsports Park](https://palmermotorsportspark.com)
--->
 
 ### Supporting Partners
 
