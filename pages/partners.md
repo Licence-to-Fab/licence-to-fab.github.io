@@ -45,19 +45,23 @@ That being said, we are comitted to working with organizations that are actively
 
 ### Racing Partners
 
-<img src="../../sponsor_logos/Ansys/ansys_logo_black.png"  width="40%">
-
-[Ansys](https://www.ansys.com)
-
 <img src="../../sponsor_logos/palmer/logo_black.png"  width="40%">
 
 [Palmer Motorsports Park](https://palmermotorsportspark.com)
+
+<img src="../../sponsor_logos/Ansys/ansys_logo_black.png"  width="40%">
+
+[Ansys](https://www.ansys.com)
 
 ### Supporting Partners
 
 <img src="../../sponsor_logos/madhouse/logo.png"  width="40%">
 
 [Madhouse Motors](https://www.madhousemotors.com)
+
+<img src="../../sponsor_logos/altium/logo.png"  width="40%">
+
+[Altium Designer](https://www.altium.com)
 
 ### Donors
 - The Mehrotra Family
