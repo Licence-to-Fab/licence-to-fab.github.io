@@ -51,8 +51,8 @@ footer_secondary:
   - name: News + Updates
     url: /blog/
     weight: 2
-  - name: About
-    url: /about/
+  - name: Partners
+    url: /partners/
     weight: 3
   - name: "MIT Electric Vehicle Team"
     url: https://mit.edu/evt/
