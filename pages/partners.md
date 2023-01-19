@@ -33,8 +33,6 @@ That being said, we are comitted to working with organizations that are actively
 
 ## Current Partners
 
-<!--{% include framework/blocks/sections/partners.html %}-->
-
 ### Primary Partners
 
 <img src="../../sponsor_logos/Doosan/doosan_black.png"  width="40%">
