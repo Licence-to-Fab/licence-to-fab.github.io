@@ -37,17 +37,19 @@ That being said, we are comitted to working with organizations that are actively
 
 ### Primary Partners
 
-<!--
 <img src="../../sponsor_logos/Doosan/doosan_black.png"  width="40%">
 
 [Doosan Mobility Innovation](http://www.doosanmobility.com/en/) 
--->
 
 <img src="../../sponsor_logos/ec/logo_black.svg"  width="40%">
 
 [MIT Edgerton Center](https://edgerton.mit.edu)
 
 ### Racing Partners
+
+<img src="../../sponsor_logos/Ansys/ansys_logo_black.png"  width="40%">
+
+[Ansys](https://www.ansys.com)
 
 <img src="../../sponsor_logos/palmer/logo_black.png"  width="40%">
 
