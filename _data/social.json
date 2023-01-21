@@ -2,21 +2,11 @@
   {
     "title": "Github",
     "fa_icon": "fab fa-github",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Discord",
-    "fa_icon": "fab fa-discord",
-    "url": "https://www.zerostatic.io"
+    "url": "https://github.com/Licence-to-Fab"
   },
   {
     "title": "Instagram",
     "fa_icon": "fab fa-instagram-square",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Linkedin",
-    "fa_icon": "fab fa-linkedin",
     "url": "https://www.zerostatic.io"
   }
 ]

@@ -18,5 +18,17 @@
   {
     "title": "Madhouse Motors",
     "image": "/sponsor_logos/madhouse/logo.png"
+  },
+  {
+    "title": "Discord",
+    "fa_icon": "fab fa-discord",
+    "url": "https://www.zerostatic.io"
+  },
+  {
+    "title": "Linkedin",
+    "fa_icon": "fab fa-linkedin",
+    "url": "https://www.zerostatic.io"
   }
 ]
+
+

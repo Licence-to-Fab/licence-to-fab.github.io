@@ -40,11 +40,11 @@ main:
 footer_primary:
   - name: "the 2022 Bike—'Toothless'"
     url: /projects/toothless/
-  - name: "HFC"
-    url: /projects/hfc/
-  - name: "Supercapacitor Bank"
-    url: /projects/supercaps/
-  - name: "Power Unit"
+  - name: "Future R & D"
+    url: /projects/r_d/
+  - name: "Safety + Standards"
+    url: /projects/safety_design/
+  - name: "Power Unit (V1)"
     url: /projects/motors/
 
 footer_secondary:
@@ -62,7 +62,7 @@ footer_secondary:
   - name: Accessibility
     url: https://accessibility.mit.edu
     weight: 1
-  - name: Terms and Conditions
+  - name: Open Source Policy
     url: /terms-and-conditions/
     weight: 2
 
@@ -70,7 +70,7 @@ footer_tertiary:
   - name: Accessibility
     url: https://accessibility.mit.edu
     weight: 1
-  - name: Terms and Conditions
+  - name: Open Source Policy
     url: /terms-and-conditions/
     weight: 2
 
@@ -78,6 +78,6 @@ bottom:
   - name: Accessibility
     url: https://accessibility.mit.edu
     weight: 3
-  - name: Terms and Conditions
+  - name: Open Source Policy
     url: /terms-and-conditions/
     weight: 4
