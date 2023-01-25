@@ -55,11 +55,15 @@ That being said, we are comitted to working with organizations that are actively
 
 ### Supporting Partners
 
-<img src="../../sponsor_logos/madhouse/logo.png"  width="40%">
+<img src="../../sponsor_logos/madhouse/logo.png"  width="30%">
 
 [Madhouse Motors](https://www.madhousemotors.com)
 
-<img src="../../sponsor_logos/altium/logo.png"  width="40%">
+<img src="../../sponsor_logos/askov/logo.png"  width="25%"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="../../sponsor_logos/askov/knc.png"  width="12%">
+
+[Askov Finlayson](https://askovfinlayson.com)
+
+<img src="../../sponsor_logos/altium/logo.png"  width="30%">
 
 [Altium Designer](https://www.altium.com)
 
