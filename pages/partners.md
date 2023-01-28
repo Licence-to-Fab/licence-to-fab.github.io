@@ -43,6 +43,10 @@ That being said, we are comitted to working with organizations that are actively
 
 [MIT Edgerton Center](https://edgerton.mit.edu)
 
+<img src="../../sponsor_logos/d-lab/logo.png"  width="40%">
+
+[MIT D-Lab](https://d-lab.mit.edu)
+
 ### Racing Partners
 
 <img src="../../sponsor_logos/palmer/logo_black.png"  width="40%">
