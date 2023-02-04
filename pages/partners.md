@@ -115,7 +115,7 @@ __Supporting Partners__ recieve the following benefits from support:
 
 __Donations__ recieve a tax-deductible reciept along with a thank-you letter, and their name on the donors section of this page of our website.
 
-## Open Source Policy Disclaimer
+## Open Source Policy + Partnerships
 
 Please note that any, and all of our work is open-source and we offer support to all individuals, and organizations seeking to use our research in their work, regardless of partnership status, provided we deem the work to be ethically appropriate. **We will not provide more or less support to any individual or organization based on donation value or partnership status.**
 
