@@ -88,7 +88,7 @@ That being said, we are comitted to working with organizations that are actively
 
 ## Levels of Partnership
 
-- __Primary Partners__, partners we do the most active development with, support exceeds 10000USD in value (in-kind or monetary), and includes engineering support.
+- __Primary Partners__, partners who provide the most support for our operations exceeding 10000USD in value (in-kind or monetary).
 - __Racing Partners__, partners that provide significant support for our operations (in-kind or monetary) in the area of 5000USD or more.
 - __Supporting Partners__, partners that provide support for our operations (in-kind or monetary) in the area of 1000USD or more.
 
@@ -97,17 +97,16 @@ We consider any support below 1000USD a tax-deductible __donation__ that we grac
 ## Partnership Benefits
 
 __Primary Partners__ recieve the following benefits from support:
-- Monthly or bi-monthly meetings with the core L2F engineering team to discuss project progress and direction.
-- Detailed initial copies of test data, results, or engineering reports.
 - Name and logo on website, vehicle, team apparel, and support vehicles.
 - Team representation @ partner events.
+- Updates on team activities + progress.
 - Social media post/blog post/or similar.
 
-*To qualify as a primary partner, your organization must provide direct engineering support for the integration of your products onto our platform*
+*Primary partners offering in-kind donations must provide direct engineering support for the integration of your products onto our platform. In return, we may agree to provide appropriate, un-biased product feedback for internal use only.*
 
 __Racing Partners__ recieve the following benefits from support:
 - Name and logo on website, vehicle, team apparel, and support vehicles.
-- Bi-annual newsletter, or updates on team activities.
+- Updates on team activities + progress.
 - Social media post/blog post/or similar.
 
 __Supporting Partners__ recieve the following benefits from support:
@@ -115,6 +114,12 @@ __Supporting Partners__ recieve the following benefits from support:
 - Social media post/blog post/or similar.
 
 __Donations__ recieve a tax-deductible reciept along with a thank-you letter, and their name on the donors section of this page of our website.
+
+## Open Source Policy Disclaimer
+
+Please note that any, and all of our work is open-source and we offer support to all individuals, and organizations seeking to use our research in their work, regardless of partnership status, provided we deem the work to be ethically appropriate. **We will not provide more or less support to any individual or organization based on donation value or partnership status.**
+
+Please see our [open source policy](../terms-and-conditions) for details.
 
 ## Reach out to us! We want to work with you!
 
