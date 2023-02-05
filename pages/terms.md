@@ -42,7 +42,6 @@ We promise to try our best to not link to any sketchy websites, but the internet
 Please note that since we are a student organization under MIT we cannot official endorse you without expressed written permission of MIT. And as a member of MIT, any terms and conditions such as the [MIT Use of Name](https://comms.mit.edu/institute-use-name) also apply to us.
 
 You may cite our work by using the following names. We ask you to use these names when referring to us.
-- Licence to Fab
 - MIT Licence to Fab
 - MIT L2F
 - MIT Electric Vehicle Team
