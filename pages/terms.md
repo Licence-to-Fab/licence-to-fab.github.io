@@ -25,7 +25,7 @@ We will release our work when we believe it is complete and ready to iterated up
 
 ## Exceptions to Creative Commons
 
-There are no exceptions to the creative commons license for any work WE produce. However, we may use technology developed by our partners or other organizations in our work as well. Any technology developed by a third-party will not be documented on this website or released in any way without expressed written permission of the organization that developed it. In addition, the technology is up to the discretion of the organization that developed it. Licence to Fab will obey the intellectual property (IP) rights and permissions of any technology we use that isn't developed by us without any exceptions.
+There are no exceptions to the creative commons license for any work WE produce. However, we may use technology developed by our partners or other organizations in our work as well. Any technology developed by a third-party will not be documented on this website or released in any way without expressed written permission of the organization that developed it. In addition, the licensing for said technology is at the discretion of the organization that developed it. Licence to Fab will obey the intellectual property (IP) rights and permissions of any technology we use that isn't developed by us without any exceptions.
 
 **Unsolicited requests to look at proprietary technology will not be considered and will be reported to the technology's developer.**
 
