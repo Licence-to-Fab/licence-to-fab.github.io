@@ -29,6 +29,9 @@ main:
   - name: Updates
     url: /blog/
     weight: 2
+  #- name: Community + Services
+  #  url: /community/
+  #  weight: 2
   - name: About
     url: /about/
     weight: 3
@@ -51,6 +54,9 @@ footer_secondary:
   - name: News + Updates
     url: /blog/
     weight: 2
+  #- name: Community + Services
+  #  url: /community/
+  #  weight: 2
   - name: Partners
     url: /partners/
     weight: 3
