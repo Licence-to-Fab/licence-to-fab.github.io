@@ -2,7 +2,7 @@
 
 This is the source code for the MIT Electric Vehicle Team / Licence to Fab's website! 
 
-<img src="/Licence%20to%20Fab%20Logos/L2F_Masthead.png"  width="40%"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/Licence%20to%20Fab%20Logos/biker_gang_logos/biker_full.png"  width="40%">
+<img src="/Licence%20to%20Fab%20Logos/L2F_Masthead.png"  width="40%"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="/Licence%20to%20Fab%20Logos/biker_gang_logos/biker_full.png"  width="30%">
 
 L2F Masthead &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 'Ghost-rider Beaver' Logos
 
