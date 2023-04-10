@@ -61,6 +61,7 @@ That being said, we are comitted to working with organizations that are actively
 - Mark Belanger @ the Edgerton Student Shop
 - Jack Whipple @ MIT D-Lab
 - Dan Gilbert @ MIT LMP
+- Professor Marty Culpepper
 - [the MIT Solar Electric Vehicle Team](http://mitsolar.com)
 - [MIT Electronics Research Society (MITERS)](http://miters.mit.edu)
 
