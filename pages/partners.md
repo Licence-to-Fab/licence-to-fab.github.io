@@ -35,44 +35,25 @@ That being said, we are comitted to working with organizations that are actively
 
 ### Primary Partners
 
-<img src="../../sponsor_logos/Doosan/doosan_black.png"  width="40%">
+<img src="../../sponsor_logos/Doosan/doosan_black.png" width="30%"> &nbsp; &nbsp; &nbsp; <img src="../../sponsor_logos/ec/logo_black.svg"  width="30%"> &nbsp; &nbsp; &nbsp; <img src="../../sponsor_logos/d-lab/logo.png"  width="30%">
 
-[Doosan Mobility Innovation](http://www.doosanmobility.com/en/) 
-
-<img src="../../sponsor_logos/ec/logo_black.svg"  width="40%">
-
-[MIT Edgerton Center](https://edgerton.mit.edu)
-
-<img src="../../sponsor_logos/d-lab/logo.png"  width="40%">
-
-[MIT D-Lab](https://d-lab.mit.edu)
+[Doosan Mobility Innovation](http://www.doosanmobility.com/en/) &nbsp; &nbsp; &nbsp; &nbsp; [MIT Edgerton Center](https://edgerton.mit.edu) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [MIT D-Lab](https://d-lab.mit.edu)
 
 ### Racing Partners
 
-<img src="../../sponsor_logos/palmer/logo_black.png"  width="40%">
+<img src="../../sponsor_logos/palmer/logo_black.png"  width="30%"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="../../sponsor_logos/Ansys/ansys_logo_black.png"  width="30%"> 
 
-[Palmer Motorsports Park](https://palmermotorsportspark.com)
-
-<img src="../../sponsor_logos/Ansys/ansys_logo_black.png"  width="40%">
-
-[Ansys](https://www.ansys.com)
+[Palmer Motorsports Park](https://palmermotorsportspark.com) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Ansys](https://www.ansys.com)
 
 ### Supporting Partners
 
-<img src="../../sponsor_logos/madhouse/logo.png"  width="30%">
+<img src="../../sponsor_logos/madhouse/logo.png"  width="20%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="../../sponsor_logos/askov/logo.png"  width="20%"> &nbsp; <img src="../../sponsor_logos/askov/knc.png"  width="12%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="../../sponsor_logos/altium/logo.png"  width="30%">
 
-[Madhouse Motors](https://www.madhousemotors.com)
-
-<img src="../../sponsor_logos/askov/logo.png"  width="25%"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="../../sponsor_logos/askov/knc.png"  width="12%">
-
-[Askov Finlayson](https://askovfinlayson.com)
-
-<img src="../../sponsor_logos/altium/logo.png"  width="30%">
-
-[Altium Designer](https://www.altium.com)
+[Madhouse Motors](https://www.madhousemotors.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Askov Finlayson](https://askovfinlayson.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Altium Designer](https://www.altium.com)
 
 ### Donors
 - The Mehrotra Family
+- Nicholas Fiorella
 
 ### Special Thank You To
 - Professor Alex Slocum + Steven Burcat
