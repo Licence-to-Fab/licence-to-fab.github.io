@@ -4,6 +4,7 @@ title: "the 2022 Bike—'Toothless'"
 description: "The 2022 Racing Vehicle + Associated Data"
 date: 2023-01-21
 weight: 3
+permalink: /projects/toothless/
 thumbnail: "/assets/images/gen/content/bike-2.jpg"
 image: "/assets/images/gen/content/bike-2.jpg"
 categories: ["Engineering"]

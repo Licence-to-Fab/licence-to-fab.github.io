@@ -44,11 +44,11 @@ footer_primary:
   - name: "the 2022 Bike—'Toothless'"
     url: /projects/toothless/
   - name: "Future R & D"
-    url: /projects/r_d/
+    url: /projects/r+d/
   - name: "Safety + Standards"
-    url: /projects/safety_design/
-  - name: "Power Unit (V1)"
-    url: /projects/motors/
+    url: /projects/safety/
+  - name: "Engineering Docs"
+    url: /projects/docs/
 
 footer_secondary:
   - name: News + Updates
