@@ -14,4 +14,34 @@ gallery:
   - image: "/assets/images/gen/content/safety.jpg"
 ---
 
-COMING SOON
+# Ghost Rider Tim's Engineering Calculators 
+
+The following Excel Spreadsheets were developed by our team for our own engineering work. We are open-sourcing these calculators for public use to enable others to design safe, and reliable systems. **Please note that these calculators come with reccomended reading resources, that we HIGHLY reccomend you review before using these calculators.**
+
+[Bolted Joint Calculator](/calculators/bolt_calculator_v1-1.xlsx)
+
+[Slip + Interference Fits](/calculators/slips_and_fits_v1-1.xlsx)
+
+# Engineering Resources
+
+The following are resources for general engineering that we compiled for our work, please note that we do not claim to own the copyrights to any of these resources and we only publish resources where free PDFs are already avaliable through a quick google search, names of books that don't have PDFs linked you will likely be required to purchase them yourself or gain access through your local library. 
+
+## Mechanical Engineering + Design
+
+[Sigley's Mechanical Engineering Design](/textbooks/Shigley_s%20Mechanical%20Engineering%20Design%2C%209th%20Edition.pdf)
+
+[NASA Preliminary Investigation on the Loads on Bolted Joints](/textbooks/outside%20resources/Preliminary%20Investigation%20of%20the%20Individual%20Loads%20Carried%20By%20Bolts%20in%20Bolted%20Joints.pdf)
+
+
+[History of Strenght of Materials](/textbooks/History%20of%20Strength%20of%20Materials%20-%20Timoshenko.pdf)
+
+## Electronics, Motors, + Motor Control
+
+[The Art + Science of PCB Design](https://pcb.mit.edu)
+
+[Motors + Motor Control General Resources](https://pcb.mit.edu/lectures/lecture_x/)
+
+[Electric Motor Control—Sang Hoon Kim](/textbooks/Electric%20Motor%20Control%20Sang-Hoon.zip)
+
+[Dynos for Dummies](/textbooks/Dynos_for_Dummies.pdf)
+

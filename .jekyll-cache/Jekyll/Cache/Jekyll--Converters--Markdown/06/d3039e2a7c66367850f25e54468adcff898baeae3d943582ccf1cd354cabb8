@@ -1,0 +1,27 @@
+I"\<h1 id="ghost-rider-tims-engineering-calculators">Ghost Rider Tim’s Engineering Calculators</h1>
+
+<p>The following Excel Spreadsheets were developed by our team for our own engineering work. We are open-sourcing these calculators for public use to enable others to design safe, and reliable systems. <strong>Please note that these calculators come with reccomended reading resources, that we HIGHLY reccomend you review before using these calculators.</strong></p>
+
+<p><a href="/calculators/bolt_calculator_v1-1.xlsx">Bolted Joint Calculator</a></p>
+
+<p><a href="/calculators/slips_and_fits_v1-1.xlsx">Slip + Interference Fits</a></p>
+
+<h1 id="engineering-resources">Engineering Resources</h1>
+
+<p>The following are resources for general engineering that we compiled for our work, please note that we do not claim to own the copyrights to any of these resources and we only publish resources where free PDFs are already avaliable through a quick google search, names of books that don’t have PDFs linked you will likely be required to purchase them yourself or gain access through your local library.</p>
+
+<h2 id="mechanical-engineering--design">Mechanical Engineering + Design</h2>
+
+<p><a href="/textbooks/Shigley_s%20Mechanical%20Engineering%20Design%2C%209th%20Edition.pdf">Sigley’s Mechanical Engineering Design</a></p>
+
+<p><a href="/textbooks/outside%20resources/Preliminary%20Investigation%20of%20the%20Individual%20Loads%20Carried%20By%20Bolts%20in%20Bolted%20Joints.pdf">NASA Preliminary Investigation on the Loads on Bolted Joints</a></p>
+
+<p><a href="/textbooks/History%20of%20Strength%20of%20Materials%20-%20Timoshenko.pdf">History of Strenght of Materials</a></p>
+
+<h2 id="electronics-motors--motor-control">Electronics, Motors, + Motor Control</h2>
+
+<p><a href="https://pcb.mit.edu">The Art + Science of PCB Design</a></p>
+
+<p><a href="">Dynos for Dummies</a></p>
+
+:ET
