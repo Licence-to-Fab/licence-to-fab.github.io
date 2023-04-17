@@ -24,7 +24,7 @@ The following Excel Spreadsheets were developed by our team for our own engineer
 
 # Engineering Resources
 
-The following are resources for general engineering that we compiled for our work, please note that we do not claim to own the copyrights to any of these resources and we only publish resources where free PDFs are already avaliable through a quick google search, names of books that don't have PDFs linked you will likely be required to purchase them yourself or gain access through your local library. 
+The following are resources for general engineering that we compiled for our work, please note that we only publish resources for which free PDFs are already avaliable online, for books that don't have PDFs linked—you will likely be required to purchase them yourself or gain access through your local/university library. 
 
 ## Mechanical Engineering + Design
 
