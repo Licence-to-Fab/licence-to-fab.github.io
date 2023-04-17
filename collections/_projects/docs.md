@@ -1,7 +1,7 @@
 ---
 layout: project-top
 title: "Engineering Documentation"
-description: "An open source machine learning library written in Python"
+description: "Detailed engineering documentation + design calculations for our motorcycle system."
 date: 2023-01-21
 weight: 4
 permalink: /projects/docs/

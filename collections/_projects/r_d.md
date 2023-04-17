@@ -1,7 +1,7 @@
 ---
 layout: project-right
 title: "Long Term R + D"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
+description: "Our future research areas, and longer-term projects."
 date: 2023-01-03
 weight: 1
 permalink: /projects/r+d/

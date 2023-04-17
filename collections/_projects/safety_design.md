@@ -1,7 +1,7 @@
 ---
 layout: project-left
 title: "Design Methodology + Safety"
-description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
+description: "Resources for design and rigorous standards for safety."
 date: 2023-01-21
 weight: 2
 permalink: /projects/safety/
