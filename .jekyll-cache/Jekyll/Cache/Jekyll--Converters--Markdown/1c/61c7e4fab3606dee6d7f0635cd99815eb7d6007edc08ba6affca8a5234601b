@@ -1,4 +1,4 @@
-I"l	<h1 id="ghost-rider-tims-engineering-calculators">Ghost Rider Tim’s Engineering Calculators</h1>
+I"�	<h1 id="ghost-rider-tims-engineering-calculators">Ghost Rider Tim’s Engineering Calculators</h1>
 
 <p>The following Excel Spreadsheets were developed by our team for our own engineering work. We are open-sourcing these calculators for public use to enable others to design safe, and reliable systems. <strong>Please note that these calculators come with reccomended reading resources, that we HIGHLY reccomend you review before using these calculators.</strong></p>
 
@@ -6,9 +6,11 @@
 
 <p><a href="/calculators/slips_and_fits_v1-1.xlsx">Slip + Interference Fits</a></p>
 
+<p><img src="/Licence%20to%20Fab%20Logos/biker_gang_logos/GhostRiderTIMv2.png" width="40%" /></p>
+
 <h1 id="engineering-resources">Engineering Resources</h1>
 
-<p>The following are resources for general engineering that we compiled for our work, please note that we only publish resources which are freely avaliable online or have been open-sourced, for books that don’t have PDFs linked—you will likely be required to purchase them yourself or gain access through your local/university library.</p>
+<p>The following are resources for general engineering that we compiled for our work. Please note that we only publish resources which are freely avaliable online or have been open-sourced. For books that don’t have PDFs linked you will likely have to purchase them, or gain access through your local/university library.</p>
 
 <h2 id="mechanical-engineering--design">Mechanical Engineering + Design</h2>
 
@@ -33,4 +35,6 @@
 <p><a href="/textbooks/Dynos_for_Dummies.pdf">Dynos for Dummies</a></p>
 
 <p><a href="https://pcb.mit.edu/resources/">List of Electronics Resources</a></p>
+
+<p><img src="/sponsor_logos/pcb/logo.png" width="40%" /></p>
 :ET
