@@ -45,3 +45,4 @@ The following are resources for general engineering that we compiled for our wor
 
 [Dynos for Dummies](/textbooks/Dynos_for_Dummies.pdf)
 
+[List of Electronics Resources](https://pcb.mit.edu/resources/)
