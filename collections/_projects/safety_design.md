@@ -9,7 +9,7 @@ thumbnail: "/assets/images/gen/content/safety.jpg"
 image: "/assets/images/gen/content/safety.jpg"
 client: "Developing rigorous standards for both safety + design"
 categories: ["Engineering"]
-role: "Pag contains links to international standards as well as our own reports."
+role: "Page contains links to international standards as well as our own reports."
 gallery:
   - image: "/assets/images/gen/content/safety.jpg"
 ---
