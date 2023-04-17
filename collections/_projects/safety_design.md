@@ -32,8 +32,11 @@ The following are resources for general engineering that we compiled for our wor
 
 [NASA Preliminary Investigation on the Loads on Bolted Joints](/textbooks/outside%20resources/Preliminary%20Investigation%20of%20the%20Individual%20Loads%20Carried%20By%20Bolts%20in%20Bolted%20Joints.pdf)
 
-
 [History of Strenght of Materials](/textbooks/History%20of%20Strength%20of%20Materials%20-%20Timoshenko.pdf)
+
+[FUNdaMENTALs of Design—Professor Alex H. Slocum](https://meddevdesign.mit.edu/fundamentals-of-design/)
+
+[MIT 2.70 FUNdaMENTALs of Precision Product Design—Professor Alex H. Slocum](https://web.mit.edu/2.70/Resources.html)
 
 ## Electronics, Motors, + Motor Control
 
