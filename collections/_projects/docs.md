@@ -9,7 +9,7 @@ thumbnail: "/assets/images/gen/content/gb.jpg"
 image: "/assets/images/gen/content/gb.jpg"
 client: "Detailed design + documentation"
 categories: ["Engineering"]
-role: "Motor control + motor design + gear ratio = more efficient drive train"
+role: "Documentation for all our bikes broken down by version."
 gallery:
   - image: "/assets/images/gen/projects/powerunit1.jpg"
   - image: "/assets/images/gen/projects/powerunit2.jpg"
