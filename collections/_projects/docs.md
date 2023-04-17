@@ -1,7 +1,7 @@
 ---
 layout: project-top
 title: "Engineering Documentation"
-description: "Detailed engineering documentation + design calculations for our motorcycle system."
+description: "Detailed engineering documentation + design calculations for all our bikes."
 date: 2023-01-21
 weight: 4
 permalink: /projects/docs/
