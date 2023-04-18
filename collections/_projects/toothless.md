@@ -15,4 +15,26 @@ gallery:
   - image: "/assets/images/gen/projects/bike2.jpg"
 ---
 
-COMING SOON
+# Version 1 Race Vehicle—2023
+
+Please note that the following values come from initial estimates and calculations and do not reflect the actual vehicle. These numbers will be updated once the vehicle is assembled and tested to reflect actual specifications. These numbers came from Version 0 modeling, which means some parameters such as the bike mass have significantly changed. 
+
+## Performance Specifications 
+
+- Top Speed: 65mph (estimated)
+- Acceleration: 0.5G's (estimated)
+- Range: 30miles (estimated)
+
+## Powertrain Specifications 
+
+- Peak Mechanical Power: 18kW (estimated)
+- Peak Starting Torque: 153Nm (estimated)
+- Wheel Speed @ Peak Power: 118rads/s (estimated)
+
+## Battery + Fuel Cell Specifications 
+
+- Battery Energy Capacity: 1.6kWh
+- Hydrogen Tank Energy Capacity: 6.81kWh @ 350bar, 7L
+- Total Road-Energy Capacity: 5kWh (estimated)
+- Hydrogen Fuel Cell Peak Power Output: 1.25kW 
+- Battery Peak Power Output: 40kW

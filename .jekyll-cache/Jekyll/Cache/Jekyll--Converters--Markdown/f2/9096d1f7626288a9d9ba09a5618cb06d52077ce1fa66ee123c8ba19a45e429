@@ -1,0 +1,30 @@
+I"�<h1 id="version-1-race-vehicle2023">Version 1 Race Vehicle—2023</h1>
+
+<p>Please note that the following values come from initial estimates and calculations and do not reflect the actual vehicle. These numbers will be updated once the vehicle is assembled and tested to reflect actual specifications. These numbers came from Version 0 modeling, which means some parameters such as the bike mass have significantly changed.</p>
+
+<h2 id="performance-specifications">Performance Specifications</h2>
+
+<ul>
+  <li>Top Speed: 65mph (estimated)</li>
+  <li>Acceleration: 0.5G’s (estimated)</li>
+  <li>Range: 30miles (estimated)</li>
+</ul>
+
+<h2 id="powertrain-specifications">Powertrain Specifications</h2>
+
+<ul>
+  <li>Peak Mechanical Power: 18kW (estimated)</li>
+  <li>Peak Starting Torque: 153Nm (estimated)</li>
+  <li>Wheel Speed @ Peak Power: 118rads/s (estimated)</li>
+</ul>
+
+<h2 id="battery--fuel-cell-specifications">Battery + Fuel Cell Specifications</h2>
+
+<ul>
+  <li>Battery Energy Capacity: 1.6kWh</li>
+  <li>Hydrogen Tank Energy Capacity: 6.81kWh @ 350bar, 7L</li>
+  <li>Total Road-Energy Capacity: 5kWh (estimated)</li>
+  <li>Hydrogen Fuel Cell Peak Power Output: 1.25kW</li>
+  <li>Battery Peak Power Output: 40kW</li>
+</ul>
+:ET
