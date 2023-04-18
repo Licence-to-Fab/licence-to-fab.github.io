@@ -15,4 +15,27 @@ gallery:
 gallery_limit: 2
 ---
 
-COMING SOON
+# Current Longer-Term Research Projects
+
+Our longer-term research projects won't see integration on our vehicle platforms for at least a year or so, but the are critical to the future. We think we can make vehicles even more sustainable, practical, and accessible, and these projects will help us get there. 
+
+## Engineering Research
+
+- Integration of Super-Capacitors
+- Active Power Management Systems
+- Open-Source Fuel Cell
+- Low-Energy, High-Performance Liquid Cooling System
+- System-Level Simulation of Hydrogen Racing Vehicles
+- Aerodynamic Design of Efficient Vehicles 
+- Controls Systems for High Power + High Efficiency Driving Modes
+- Extension of Research to Larger Vehicles
+
+## Environmental Impact Research
+
+- Green Hydrogen Sourcing Standards + Supply Chain
+- Green Manufacturing of Hydrogen Vehicles
+
+## Safety
+
+- Failure Analysis for Hydrogen Vehicles
+- Development of General Safety Standards + Design Methodology for Hydrogen Vehicles

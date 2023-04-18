@@ -1,7 +1,7 @@
 ---
 layout: project # alternative layouts: project, project-left, project-right, project-top
-title: "the 2022 Bike—'Toothless'"
-description: "The 2022 Racing Vehicle + Associated Data"
+title: "the 2023 Bike—'Toothless'"
+description: "The 2023 Racing Vehicle + Associated Data"
 date: 2023-01-21
 weight: 3
 permalink: /projects/toothless/
