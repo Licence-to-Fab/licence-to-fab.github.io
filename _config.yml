@@ -12,6 +12,7 @@ collections_dir: collections
 plugins:
   - jekyll-environment-variables
   - jekyll-paginate
+  - jekyll-feed
 
 paginate: 6
 paginate_path: "/blog/page/:num"
