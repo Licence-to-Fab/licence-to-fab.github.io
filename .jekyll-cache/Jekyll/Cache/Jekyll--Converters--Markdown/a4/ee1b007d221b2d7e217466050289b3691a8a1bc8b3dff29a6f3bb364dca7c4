@@ -1,4 +1,4 @@
-I"7&<h1 id="building-a-cleaner-future-together">Building a cleaner future, together.</h1>
+I"�(<h1 id="building-a-cleaner-future-together">Building a cleaner future, together.</h1>
 
 <p>We establish key partnerships with industry, and within academia to further our mission to enable the development of hydrogen-powered vehicles. This is absolutely critical to the work we do, we cannot hope to reframe the way industry thinks about vehicle power systems without fully understanding the issues relating to developing green transportation from the people actually developing it. Our partners aren’t just sponsors, we work directly with them, and their core engineering teams to share knowledge and limitations, openly and fairly.</p>
 
@@ -31,6 +31,33 @@
 <h2 id="current-partners">Current Partners</h2>
 
 <h3 id="primary-partners">Primary Partners</h3>
+
+<style>
+table th:first-of-type {
+    width: 30%;
+}
+table th:nth-of-type(2) {
+    width: 30%;
+}
+table th:nth-of-type(3) {
+    width: 30%;
+}
+</style>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="../../sponsor_logos/Doosan/doosan_black.png" width="500" /></td>
+      <td><img src="../../sponsor_logos/ec/logo_black.svg" width="500" /></td>
+      <td><img src="../../sponsor_logos/d-lab/logo.png" width="500" /></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.doosanmobility.com/en/">Doosan Mobility Innovation</a></td>
+      <td><a href="https://edgerton.mit.edu">MIT Edgerton Center</a></td>
+      <td><a href="https://d-lab.mit.edu">MIT D-Lab</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <p><img src="../../sponsor_logos/Doosan/doosan_black.png" width="30%" />       <img src="../../sponsor_logos/ec/logo_black.svg" width="30%" />       <img src="../../sponsor_logos/d-lab/logo.png" width="30%" /></p>
 
