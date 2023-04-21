@@ -41,8 +41,8 @@ That being said, we are comitted to working with organizations that are actively
 
 ### Racing Partners
 
-| <img src="../../sponsor_logos/palmer/logo_black.png" width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/Ansys/ansys_logo_black.png"  width="200"> |
-|[Palmer Motorsports Park](https://palmermotorsportspark.com)||[Ansys](https://www.ansys.com)|
+| <img src="../../sponsor_logos/palmer/logo_black.png" width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/Ansys/ansys_logo_black.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/meche/logo.png"  width="200"> |
+|[Palmer Motorsports Park](https://palmermotorsportspark.com)||[Ansys](https://www.ansys.com)||[MIT Mechanical Engineering](https://meche.mit.edu) |
 
 
 ### Supporting Partners
@@ -51,8 +51,8 @@ That being said, we are comitted to working with organizations that are actively
 | <img src="../../sponsor_logos/madhouse/logo.png"  width="150"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/askov/logo.png"  width="150"> &nbsp; <img src="../../sponsor_logos/askov/knc.png"  width="75"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/altium/logo.png"  width="200">| 
 |[Madhouse Motors](https://www.madhousemotors.com)||[Askov Finlayson](https://askovfinlayson.com)||[Altium Designer](https://www.altium.com)|
 
- | <img src="../../sponsor_logos/wingee/logo.png"  width="200"> |
- | [See Top Blog Feeds @ Wingee.com!](http://www.wingee.com) |
+ | <img src="../../sponsor_logos/wingee/logo.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/eecs/logo.png"  width="200"> |
+ | [See Top Blog Feeds @ Wingee.com!](http://www.wingee.com) || [MIT EECS](https://eecs.mit.edu) |
 
 ### Donors
 - The Mehrotra Family

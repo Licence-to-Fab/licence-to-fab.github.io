@@ -1,4 +1,4 @@
-I"�&<h1 id="building-a-cleaner-future-together">Building a cleaner future, together.</h1>
+I"5)<h1 id="building-a-cleaner-future-together">Building a cleaner future, together.</h1>
 
 <p>We establish key partnerships with industry, and within academia to further our mission to enable the development of hydrogen-powered vehicles. This is absolutely critical to the work we do, we cannot hope to reframe the way industry thinks about vehicle power systems without fully understanding the issues relating to developing green transportation from the people actually developing it. Our partners aren’t just sponsors, we work directly with them, and their core engineering teams to share knowledge and limitations, openly and fairly.</p>
 
@@ -35,13 +35,17 @@
 <table>
   <tbody>
     <tr>
-      <td><img src="../../sponsor_logos/Doosan/doosan_black.png" width="500" />          </td>
-      <td><img src="../../sponsor_logos/ec/logo_black.svg" width="400" />          </td>
+      <td><img src="../../sponsor_logos/Doosan/doosan_black.png" width="500" /></td>
+      <td>      </td>
+      <td><img src="../../sponsor_logos/ec/logo_black.svg" width="400" /></td>
+      <td>      </td>
       <td><img src="../../sponsor_logos/d-lab/logo.png" width="400" /></td>
     </tr>
     <tr>
       <td><a href="http://www.doosanmobility.com/en/">Doosan Mobility Innovation</a></td>
+      <td> </td>
       <td><a href="https://edgerton.mit.edu">MIT Edgerton Center</a></td>
+      <td> </td>
       <td><a href="https://d-lab.mit.edu">MIT D-Lab</a></td>
     </tr>
   </tbody>
@@ -49,19 +53,60 @@
 
 <h3 id="racing-partners">Racing Partners</h3>
 
-<p><img src="../../sponsor_logos/palmer/logo_black.png" width="30%" />      <img src="../../sponsor_logos/Ansys/ansys_logo_black.png" width="30%" /></p>
-
-<p><a href="https://palmermotorsportspark.com">Palmer Motorsports Park</a>               <a href="https://www.ansys.com">Ansys</a></p>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="../../sponsor_logos/palmer/logo_black.png" width="200" /></td>
+      <td>      </td>
+      <td><img src="../../sponsor_logos/Ansys/ansys_logo_black.png" width="200" /></td>
+      <td>      </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://palmermotorsportspark.com">Palmer Motorsports Park</a></td>
+      <td> </td>
+      <td><a href="https://www.ansys.com">Ansys</a></td>
+      <td> </td>
+      <td><a href="https://meche.mit.edu">MIT Mechanical Engineering</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 id="supporting-partners">Supporting Partners</h3>
 
-<p><img src="../../sponsor_logos/madhouse/logo.png" width="20%" />             <img src="../../sponsor_logos/askov/logo.png" width="20%" />   <img src="../../sponsor_logos/askov/knc.png" width="12%" />             <img src="../../sponsor_logos/altium/logo.png" width="30%" /></p>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="../../sponsor_logos/madhouse/logo.png" width="150" /></td>
+      <td>      </td>
+      <td><img src="../../sponsor_logos/askov/logo.png" width="150" />   <img src="../../sponsor_logos/askov/knc.png" width="75" /></td>
+      <td>      </td>
+      <td><img src="../../sponsor_logos/altium/logo.png" width="200" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.madhousemotors.com">Madhouse Motors</a></td>
+      <td> </td>
+      <td><a href="https://askovfinlayson.com">Askov Finlayson</a></td>
+      <td> </td>
+      <td><a href="https://www.altium.com">Altium Designer</a></td>
+    </tr>
+  </tbody>
+</table>
 
-<p><a href="https://www.madhousemotors.com">Madhouse Motors</a>              <a href="https://askovfinlayson.com">Askov Finlayson</a>                                          <a href="https://www.altium.com">Altium Designer</a></p>
-
-<p><img src="../../sponsor_logos/wingee/logo.png" width="35%" /></p>
-
-<p><a href="http://www.wingee.com">See Top Blog Feeds @ Wingee.com!</a></p>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="../../sponsor_logos/wingee/logo.png" width="200" /></td>
+      <td>      </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="http://www.wingee.com">See Top Blog Feeds @ Wingee.com!</a></td>
+      <td> </td>
+      <td><a href="https://eecs.mit.edu">MIT EECS</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 id="donors">Donors</h3>
 <ul>
