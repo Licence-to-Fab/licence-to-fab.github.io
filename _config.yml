@@ -62,6 +62,13 @@ exclude:
   - LICENSE
   - netlify.toml
 
+#feed
+feed:
+  title: "MIT Open Source Hydrogen Feed"
+  description: "Progress on the MIT Electric Vehicle Team's open source Hydrogen Fuel Cell motorcycle project!"
+  url: "https://evt.mit.edu"
+  author: "MIT Electric Vehicle Team"
+
 
 # -------------------
 # Theme Config
