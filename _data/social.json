@@ -13,5 +13,10 @@
     "title": "Instagram",
     "fa_icon": "fab fa-instagram",
     "url": "https://instagram.com/mit.evt?igshid=MjkzY2Y1YTY="
+  },
+  {
+    "title": "RSS Feed",
+    "fa_icon": "fa fa-rss-square",
+    "url": "https://evt.mit.edu/feed.xml"
   }
 ]
