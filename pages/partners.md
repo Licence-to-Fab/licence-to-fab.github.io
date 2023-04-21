@@ -51,6 +51,10 @@ That being said, we are comitted to working with organizations that are actively
 
 [Madhouse Motors](https://www.madhousemotors.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Askov Finlayson](https://askovfinlayson.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Altium Designer](https://www.altium.com)
 
+<img src="../../sponsor_logos/wingee/logo.png"  width="35%">
+
+[See Top Blog Feeds @ Wingee.com!](http://www.wingee.com)
+
 ### Donors
 - The Mehrotra Family
 - Nicholas Fiorella
