@@ -1,0 +1,31 @@
+I"'<p>Today we’re super excited to announce that our team just hit the first major milestone on the road to developing a hydrogen powered motorcycle! Our bike drives under its own power. In this case, the bike was powered by a Lithium battery. Here’s a few fun videos of it driving!</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oQHbWxG8HFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<p><a href="https://youtube.com/shorts/5WhaHTfYNqE?feature=share">Here’s another short driving clip,</a> (more coming soon!)</p>
+
+<h2 id="notes">Notes</h2>
+
+<h2 id="battery-information">Battery Information</h2>
+
+<p>The Lithium battery in our system is used to absorb power during regenerative braking while also providing the power needed during acceleration. The Fuel Cell will recharge the battery while the bike is driving (similar to a hybrid vehicle), and also provide most of the power during steady-state driving.</p>
+
+<p><img src="/assets/images/gen/blog/batt_cells.jpeg" width="45%" /> <img src="/assets/images/gen/blog/batt_assembly.jpeg" width="45%" /></p>
+
+<p>Over the past few weeks, our team has been hard at work assembling the version 1 battery. The batter is a 50V 32Ah pack built using <a href="https://batteryhookup.com/collections/spim08hp-accessories/products/2x-spim08hp-3-7v-8ah-cells-with-threaded-insert">SPIM08HP cells</a>. These cells are high-current, Lithium-Ion pouch cells with low internal resistance making them capable of providing, and sinking large currents. This, and their modular assembly structure made them perfect for the first, proof-of-concept battery.</p>
+
+<figure>
+  <a href="" target="\_blank">
+    <img src="/assets/images/gen/content/team_batt.jpg" alt="battery team" />
+  </a>
+  <figcaption>
+    <h4>Our battery team after completing some of the initial steps of assembly!</h4>
+    <p>(Lucas, Miguel, Ebby, + Adi)</p>
+  </figcaption>
+</figure>
+
+<p>Over the next few weeks we will be integrating and testing some key safety features onto the bike including a proper emergency stop as well as some driver control switches. We’re also going to be releasing a battery build video as well as extensive documentation on the design and the construction of our battery system including issues during manufacturing and how we resolved them, tests we ran and how to safely determine the battery is operating correctly.</p>
+
+<p>We’re also starting to transition to building up the hydrogen power system of the bike, we’re working on mounting the fuel tank and will start running benchtop tests on the fuel cell soon! <strong>Our goal is to have the bike driving under hydrogen power by the middle of the summer!</strong> Stay tuned for more updates!</p>
+
+:ET
