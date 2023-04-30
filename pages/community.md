@@ -57,7 +57,7 @@ We have a Motorcycle Dynamometer! Dynamometers are used to determine the perform
 
 See full specifications [here](https://www.dynojet.com/motorcycle-chassis-dynamometer-model-250i/).
 
-## Battery Characterization Equipment 
+## Battery/Motor Characterization + Electrical Equipment 
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/battery_char.jpg" title="Impedance Testing of Battery Cells + Packs" caption="(dc electronics loads + datalogging)" alt="batteries" link="" target="\_blank" %}
 
@@ -68,6 +68,12 @@ We have a lot of equipment to help analyze vehicle batteries including electroni
 - [5V 40A Charge/Discharge Cell Cycler + Datalogger](https://batteryhookup.com/products/zketech-ebc-a40l-capacity-tester-0-5v-40a-charge-discharge)
 - [CEM DT-5302 4-Wire Multimeter](https://www.cem-instruments.com/en/product-id-904)
 - TDK Lambda Programmable [Power Supply 150V @ 22A DC](https://product.tdk.com/en/search/power/switching-power/prg-power/info?part_no=GEN%20150-22-3P480)
+
+The following test equipment was generously donated to use by Rigol, they make awesome stuff! 
+
+- [Rigol DHO1104](https://www.rigolna.com/products/digital-oscilloscopes/dho1000/) (100 MHz, 4 CHs, and 12bits High Resolution Oscilloscope)
+- [Rigol DL3031A](https://www.rigolna.com/products/dc-power-loads/dl3000/) (High Precision Electronic Load)
+- [Rigol DP932A](https://www.rigolna.com/products/dc-power-loads/dp900/) (High Performance DC Power Supply)
 
 **We are always working on getting more resources**, if you have something cool to donate or share with us that we can offer to the community, please reach out! 
 

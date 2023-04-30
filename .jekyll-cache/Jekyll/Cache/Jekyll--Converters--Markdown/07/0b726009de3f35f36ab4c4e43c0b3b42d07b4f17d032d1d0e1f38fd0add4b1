@@ -1,4 +1,4 @@
-I"�<h1 id="we-want-to-support-our-local-community">We want to support our local community.</h1>
+I"�!<h1 id="we-want-to-support-our-local-community">We want to support our local community.</h1>
 
 <p><strong>Licence to Fab</strong> isn’t just our name, it’s an ideology. Fabrication, to us, represents the ability to make anything you can dream of with your own two hands. This focus on considering “how to build things really well” while desinging them, allows us to do the creative, ground-breaking work we do.</p>
 
@@ -62,7 +62,7 @@
 
 <p>See full specifications <a href="https://www.dynojet.com/motorcycle-chassis-dynamometer-model-250i/">here</a>.</p>
 
-<h2 id="battery-characterization-equipment">Battery Characterization Equipment</h2>
+<h2 id="batterymotor-characterization--electrical-equipment">Battery/Motor Characterization + Electrical Equipment</h2>
 
 <figure>
   <a href="" target="\_blank">
@@ -82,6 +82,14 @@
   <li><a href="https://batteryhookup.com/products/zketech-ebc-a40l-capacity-tester-0-5v-40a-charge-discharge">5V 40A Charge/Discharge Cell Cycler + Datalogger</a></li>
   <li><a href="https://www.cem-instruments.com/en/product-id-904">CEM DT-5302 4-Wire Multimeter</a></li>
   <li>TDK Lambda Programmable <a href="https://product.tdk.com/en/search/power/switching-power/prg-power/info?part_no=GEN%20150-22-3P480">Power Supply 150V @ 22A DC</a></li>
+</ul>
+
+<p>The following test equipment was generously donated to use by Rigol, they make awesome stuff!</p>
+
+<ul>
+  <li><a href="https://www.rigolna.com/products/digital-oscilloscopes/dho1000/">Rigol DHO1104</a> (100 MHz, 4 CHs, and 12bits High Resolution Oscilloscope)</li>
+  <li><a href="https://www.rigolna.com/products/dc-power-loads/dl3000/">Rigol DL3031A</a> (High Precision Electronic Load)</li>
+  <li><a href="https://www.rigolna.com/products/dc-power-loads/dp900/">Rigol DP932A</a> (High Performance DC Power Supply)</li>
 </ul>
 
 <p><strong>We are always working on getting more resources</strong>, if you have something cool to donate or share with us that we can offer to the community, please reach out!</p>

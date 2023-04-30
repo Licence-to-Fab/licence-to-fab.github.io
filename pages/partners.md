@@ -44,6 +44,9 @@ That being said, we are comitted to working with organizations that are actively
 | <img src="../../sponsor_logos/palmer/logo_black.png" width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/Ansys/ansys_logo_black.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/meche/logo.png"  width="200"> |
 |[Palmer Motorsports Park](https://palmermotorsportspark.com)||[Ansys](https://www.ansys.com)||[MIT Mechanical Engineering](https://meche.mit.edu) |
 
+| <img src="../../sponsor_logos/rigol/logo.png"  width="200"> |
+| [Rigol Technologies](https://www.rigolna.com) |
+
 
 ### Supporting Partners
 
