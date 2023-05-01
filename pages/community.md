@@ -71,7 +71,7 @@ We have a lot of equipment to help analyze vehicle batteries including electroni
 - [Micsig CP2100A](https://www.micsig.com/current%20probe/) (AC/DC Current Probe 800KHz 10A/100A)
 - [Migsig DP10013](https://www.micsig.com/Differential%20Probe04/) (High Voltage Differential Probe)
 
-The following test equipment was generously donated by Rigol, they make awesome stuff! 
+The following test equipment was generously donated by Rigol for our use, they make awesome stuff! 
 
 - [Rigol DHO1104](https://www.rigolna.com/products/digital-oscilloscopes/dho1000/) (100 MHz, 4 CHs, and 12bits High Resolution Oscilloscope)
 - [Rigol DL3031A](https://www.rigolna.com/products/dc-power-loads/dl3000/) (High Precision Electronic Load)
