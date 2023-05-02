@@ -70,7 +70,7 @@ footer_secondary:
     weight: 2
 
 footer_tertiary:
-  - name: UN Sustainable Development Goals
+  - name: UN Sustinable Development Goals
     url: https://sdgs.un.org/goals
     weight: 3
   - name: ASME Code of Ethics
