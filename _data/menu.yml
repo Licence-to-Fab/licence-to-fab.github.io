@@ -65,20 +65,20 @@ footer_secondary:
   - name: Contact
     url: mailto:l2f@mit.edu
     weight: 4
-  - name: Accessibility
-    url: https://accessibility.mit.edu
-    weight: 1
   - name: Open Source Policy
     url: /terms-and-conditions/
     weight: 2
 
 footer_tertiary:
+  - name: UN Sustainable Development Goals
+    url: https://sdgs.un.org/goals
+    weight: 3
+  - name: ASME Code of Ethics
+    url: /textbooks/ethics/asme.pdf
+    weight: 2
   - name: Accessibility
     url: https://accessibility.mit.edu
     weight: 1
-  - name: Open Source Policy
-    url: /terms-and-conditions/
-    weight: 2
 
 bottom:
   - name: Accessibility

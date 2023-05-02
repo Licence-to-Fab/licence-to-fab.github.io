@@ -70,6 +70,7 @@ We have a lot of equipment to help analyze vehicle batteries including electroni
 - TDK Lambda Programmable [Power Supply 150V @ 22A DC](https://product.tdk.com/en/search/power/switching-power/prg-power/info?part_no=GEN%20150-22-3P480)
 - [Micsig CP2100A](https://www.micsig.com/current%20probe/) (AC/DC Current Probe 800KHz 10A/100A)
 - [Migsig DP10013](https://www.micsig.com/Differential%20Probe04/) (High Voltage Differential Probe)
+- [PEAK System PCAN-USB](https://www.peak-system.com/PCAN-USB.199.0.html?&L=1) (Opto-Isolated CAN Bus Sniffer, w/ 120Ω Termination Block)
 
 The following test equipment was generously donated by Rigol, they make awesome stuff! 
 

@@ -27,7 +27,7 @@ Additionally, we are looking for partners that can provide the following to supp
 - __Logistics Support__, this includes shipping of the vehicle or other delicate parts to racetracks and other facilities for competition or testing.
 - __General Funding__, we are always open to general funding to support our operations. Any donations to our work are deeply appreciated and allow us to continue the important work we do as an organization.
 
-> Please note, we will not accept partnerships from fossil fuel companies, oil companies, or similar organizations as part of our pledge to support [MIT Divest](https://www.mit-divest.com). We also refuse to be supported by fast-fashion brands, or other environmentally damaging brands that we believe do not align with our values to build a cleaner world. We actively seek to be supported by organizations making a concious effort to produce a more equitable world for all people regardless of race or gender.
+> Please note, we will not accept partnerships from brands that we believe do not align with our values to build a cleaner world. We actively seek to be supported by organizations making a concious effort to produce a more equitable world for all people regardless of race or gender.
 
 That being said, we are comitted to working with organizations that are actively seeking to improve their green-technology plan, and reduce their carbon footprint.
 

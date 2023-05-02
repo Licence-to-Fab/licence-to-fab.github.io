@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://licence-to-fab.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://licence-to-fab.github.io/" rel="alternate" type="text/html" /><updated>2023-04-30T20:45:49-04:00</updated><id>https://licence-to-fab.github.io/feed.xml</id><title type="html">MIT Electric Vehicle Team (EVT)</title><entry><title type="html">Roaming on Battery Power!</title><link href="https://licence-to-fab.github.io/blog/2023-4-27-roaming/" rel="alternate" type="text/html" title="Roaming on Battery Power!" /><published>2023-04-27T06:25:30-04:00</published><updated>2023-04-27T06:25:30-04:00</updated><id>https://licence-to-fab.github.io/blog/roaming</id><content type="html" xml:base="https://licence-to-fab.github.io/blog/2023-4-27-roaming/"><![CDATA[<p>Today we’re super excited to announce that our team just hit the first major milestone on the road to developing a hydrogen powered motorcycle! Our bike drives under its own power. In this case, the bike was powered by a Lithium battery. Here’s a few fun videos of it driving!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://licence-to-fab.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://licence-to-fab.github.io/" rel="alternate" type="text/html" /><updated>2023-05-02T12:58:55-04:00</updated><id>https://licence-to-fab.github.io/feed.xml</id><title type="html">MIT Electric Vehicle Team (EVT)</title><entry><title type="html">Roaming on Battery Power!</title><link href="https://licence-to-fab.github.io/blog/2023-4-27-roaming/" rel="alternate" type="text/html" title="Roaming on Battery Power!" /><published>2023-04-27T06:25:30-04:00</published><updated>2023-04-27T06:25:30-04:00</updated><id>https://licence-to-fab.github.io/blog/roaming</id><content type="html" xml:base="https://licence-to-fab.github.io/blog/2023-4-27-roaming/"><![CDATA[<p>Today we’re super excited to announce that our team just hit the first major milestone on the road to developing a hydrogen powered motorcycle! Our bike drives under its own power. In this case, the bike was powered by a Lithium battery. Here’s a few fun videos of it driving!</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oQHbWxG8HFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<p><a href="https://youtube.com/shorts/5WhaHTfYNqE?feature=share">Here’s another short driving clip,</a> (more coming soon!)</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XX5TXS8L-wE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<p><a href="https://youtube.com/shorts/5WhaHTfYNqE?feature=share">Here’s another short driving clip,</a></p>
 
 <h2 id="drivetrain-notes">Drivetrain Notes</h2>
 
@@ -13,7 +15,20 @@
   <li>Focusing on the design of the V2 drivetrain to get that mounted on the bike by mid-summer.</li>
 </ul>
 
+<p><img src="/assets/images/gen/blog/testing1.jpeg" width="45%" /> <img src="/assets/images/gen/blog/testing2.jpeg" width="45%" /></p>
+
 <p>The V2 drivetrain will have a better mechanical design and also a more powerful, single motor design rather than a dual-motor belted design. Regardless! This is super exciting because it means we can start getting data that will inform the V2 drivetrain design and the hydrogen-fuel cell integration!</p>
+
+<h3 id="some-other-important-notes">Some Other Important Notes</h3>
+
+<p>The goals for this initial drive train were to get the bike running to a point where we could start collecting data. It was also to allow our team to start figuring out how to integrate all the components of a hydrogen bike together and figure out what the system’s layout would look like.</p>
+
+<ul>
+  <li>The current system uses a small T-Motor U15, and the bike can accelerate slowly up to around 35mph.</li>
+  <li>The current drivetrain draws a maximum of 35-40A of current from the battery, while the battery is capable of 350A before the main fuse blows.</li>
+</ul>
+
+<p>The V1 drivetrain will not be part of an official release, we won’t be releasing detailed documentation on it because the performance, build quality, and safety are not near where we want them to be. We will be focusing on the design of the V2 drivetrain, which is the first one we plan on releasing should the safety be at a standard we are comfortable with.</p>
 
 <h2 id="battery-information">Battery Information</h2>
 
