@@ -62,7 +62,7 @@ That being said, we are comitted to working with organizations that are actively
 - Nicholas Fiorella
 
 ### Special Thank You To
-- Professor Alex Slocum + Steven Burcat
+- Professor Alex Slocum, Steven Burcat, Ben Owen-Block, + Trevor Ryan Murphy
 - Ed Moriarty, Chris, Sandi, + the Edgerton Center Staff
 - Mark Belanger @ the Edgerton Student Shop
 - Jack Whipple @ MIT D-Lab
