@@ -40,6 +40,8 @@ The following are resources for general engineering that we compiled for our wor
 
 [MIT 2.70 FUNdaMENTALs of Precision Product Design—Professor Alex H. Slocum](https://web.mit.edu/2.70/Resources.html)
 
+[FAA's ACCEPTABLE METHODS, TECHNIQUES, AND PRACTICESAIRCRAFT INSPECTION AND REPAIR (Section 7, Safety Wire Methods)](/textbooks/outside%20resources/FAA_Aircraft_Inspection_and_Repair.pdf)
+
 ## Electronics, Motors, + Motor Control
 
 [The Art + Science of PCB Design](https://pcb.mit.edu)
