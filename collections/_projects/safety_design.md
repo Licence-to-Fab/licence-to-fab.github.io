@@ -28,6 +28,10 @@ The following Excel Spreadsheets were developed by our team for our own engineer
 
 The following are resources for general engineering that we compiled for our work. Please note that we only publish resources which are freely avaliable online or have been open-sourced. For books that don't have PDFs linked you will likely have to purchase them, or gain access through your local/university library. 
 
+## Safety
+
+[FAA's ACCEPTABLE METHODS, TECHNIQUES, AND PRACTICESAIRCRAFT INSPECTION AND REPAIR (Section 7, Safety Wire Methods)](/textbooks/outside%20resources/FAA_Aircraft_Inspection_and_Repair.pdf)
+
 ## Mechanical Engineering + Design
 
 [Sigley's Mechanical Engineering Design](/textbooks/Shigley_s%20Mechanical%20Engineering%20Design%2C%209th%20Edition.pdf)
@@ -39,8 +43,6 @@ The following are resources for general engineering that we compiled for our wor
 [FUNdaMENTALs of Design—Professor Alex H. Slocum](https://meddevdesign.mit.edu/fundamentals-of-design/)
 
 [MIT 2.70 FUNdaMENTALs of Precision Product Design—Professor Alex H. Slocum](https://web.mit.edu/2.70/Resources.html)
-
-[FAA's ACCEPTABLE METHODS, TECHNIQUES, AND PRACTICESAIRCRAFT INSPECTION AND REPAIR (Section 7, Safety Wire Methods)](/textbooks/outside%20resources/FAA_Aircraft_Inspection_and_Repair.pdf)
 
 ## Electronics, Motors, + Motor Control
 
