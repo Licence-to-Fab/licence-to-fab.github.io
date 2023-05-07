@@ -30,7 +30,7 @@ The following are resources for general engineering that we compiled for our wor
 
 ## Safety
 
-[FAA's ACCEPTABLE METHODS, TECHNIQUES, AND PRACTICES—AIRCRAFT INSPECTION AND REPAIR (Section 7, Safety Wire Methods)](/textbooks/outside%20resources/FAA_Aircraft_Inspection_and_Repair.pdf)
+[The FAA's ACCEPTABLE METHODS, TECHNIQUES, AND PRACTICES—AIRCRAFT INSPECTION AND REPAIR (Section 7, Safety Wire Methods)](/textbooks/outside%20resources/FAA_Aircraft_Inspection_and_Repair.pdf)
 
 ## Mechanical Engineering + Design
 
