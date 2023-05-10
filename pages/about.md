@@ -69,5 +69,5 @@ Licence to Fab is a re-vamping of MIT's Electric Vehicle Team. A team with a str
 
 For industry partners, please see our [patners page](../partners) for more information.
 
-All our work is OPEN SOURCE, please see the [Open Source Policy](../terms-and-conditions) page of our website for details. 
+All of our work is open source, please see the [Open Source Policy](../terms-and-conditions) page of our website for details. 
 
