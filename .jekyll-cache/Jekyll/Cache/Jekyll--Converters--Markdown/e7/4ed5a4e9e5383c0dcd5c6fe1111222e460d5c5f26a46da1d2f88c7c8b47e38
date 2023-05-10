@@ -1,11 +1,10 @@
-I"�
-<h1 id="ghost-rider-tims-engineering-calculators">Ghost Rider Tim’s Engineering Calculators</h1>
+I"�<h1 id="ghost-rider-tims-engineering-calculators">Ghost Rider Tim’s Engineering Calculators</h1>
 
 <p>The following Excel Spreadsheets were developed by our team for our own engineering work. We are open-sourcing these calculators for public use to enable others to design safe, and reliable systems. <strong>Please note that these calculators come with reccomended reading resources, that we HIGHLY reccomend you review before using these calculators.</strong></p>
 
-<p><a href="/calculators/bolt_calculator_v1-1.xlsx">Bolted Joint Calculator</a></p>
+<p><a href="/calculators/bolt_calculator_v1-1.xlsx">Bolted Joint Calculator</a> <i class="fa-brands fa-creative-commons"></i></p>
 
-<p><a href="/calculators/slips_and_fits_v1-1.xlsx">Slip + Interference Fits</a></p>
+<p><a href="/calculators/slips_and_fits_v1-1.xlsx">Slip + Interference Fits</a> <i class="fa-brands fa-creative-commons"></i></p>
 
 <p><img src="/Licence%20to%20Fab%20Logos/biker_gang_logos/GhostRiderTIMv2.png" width="40%" /></p>
 
@@ -15,7 +14,7 @@
 
 <h2 id="safety">Safety</h2>
 
-<p><a href="/textbooks/outside%20resources/FAA_Aircraft_Inspection_and_Repair.zip">The FAA’s ACCEPTABLE METHODS, TECHNIQUES, AND PRACTICES—AIRCRAFT INSPECTION AND REPAIR (Section 7, Safety Wire Methods)</a></p>
+<p><a href="https://drive.google.com/file/d/1tSw06zePS63g3Wz79YGt5xviOAI2fiKx/view?usp=share_link">The FAA’s ACCEPTABLE METHODS, TECHNIQUES, AND PRACTICES—AIRCRAFT INSPECTION AND REPAIR (Section 7, Safety Wire Methods)</a></p>
 
 <h2 id="mechanical-engineering--design">Mechanical Engineering + Design</h2>
 
@@ -31,13 +30,13 @@
 
 <h2 id="electronics-motors--motor-control">Electronics, Motors, + Motor Control</h2>
 
-<p><a href="https://pcb.mit.edu">The Art + Science of PCB Design</a></p>
+<p><a href="https://pcb.mit.edu">The Art + Science of PCB Design</a> <i class="fa-brands fa-creative-commons"></i></p>
 
 <p><a href="https://pcb.mit.edu/lectures/lecture_x/">Motors + Motor Control General Resources</a></p>
 
 <p><a href="/textbooks/Electric%20Motor%20Control%20Sang-Hoon.zip">Electric Motor Control—Sang Hoon Kim</a></p>
 
-<p><a href="/textbooks/Dynos_for_Dummies.pdf">Dynos for Dummies</a></p>
+<p><a href="/textbooks/Dynos_for_Dummies.pdf">Dynos for Dummies</a> <i class="fa-brands fa-creative-commons"></i></p>
 
 <p><a href="https://pcb.mit.edu/resources/">List of Electronics Resources</a></p>
 

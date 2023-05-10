@@ -18,9 +18,9 @@ gallery:
 
 The following Excel Spreadsheets were developed by our team for our own engineering work. We are open-sourcing these calculators for public use to enable others to design safe, and reliable systems. **Please note that these calculators come with reccomended reading resources, that we HIGHLY reccomend you review before using these calculators.**
 
-[Bolted Joint Calculator](/calculators/bolt_calculator_v1-1.xlsx)
+[Bolted Joint Calculator](/calculators/bolt_calculator_v1-1.xlsx) <i class="fa-brands fa-creative-commons"></i>
 
-[Slip + Interference Fits](/calculators/slips_and_fits_v1-1.xlsx)
+[Slip + Interference Fits](/calculators/slips_and_fits_v1-1.xlsx) <i class="fa-brands fa-creative-commons"></i>
 
 <img src="/Licence%20to%20Fab%20Logos/biker_gang_logos/GhostRiderTIMv2.png"  width="40%">
 
@@ -46,13 +46,13 @@ The following are resources for general engineering that we compiled for our wor
 
 ## Electronics, Motors, + Motor Control
 
-[The Art + Science of PCB Design](https://pcb.mit.edu)
+[The Art + Science of PCB Design](https://pcb.mit.edu) <i class="fa-brands fa-creative-commons"></i>
 
 [Motors + Motor Control General Resources](https://pcb.mit.edu/lectures/lecture_x/)
 
 [Electric Motor Control—Sang Hoon Kim](/textbooks/Electric%20Motor%20Control%20Sang-Hoon.zip)
 
-[Dynos for Dummies](/textbooks/Dynos_for_Dummies.pdf)
+[Dynos for Dummies](/textbooks/Dynos_for_Dummies.pdf) <i class="fa-brands fa-creative-commons"></i>
 
 [List of Electronics Resources](https://pcb.mit.edu/resources/)
 
