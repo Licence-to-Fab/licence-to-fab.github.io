@@ -38,8 +38,8 @@ That being said, we are comitted to working with organizations that are actively
 | <img src="../../sponsor_logos/Doosan/doosan_black.png" width="500"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/ec/logo_black.svg"  width="400"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/d-lab/logo.png"  width="400">|
 |[Doosan Mobility Innovation](http://www.doosanmobility.com/en/)||[MIT Edgerton Center](https://edgerton.mit.edu)||[MIT D-Lab](https://d-lab.mit.edu)|
 
-| <img src="../../sponsor_logos/ducati/logo.png"  width="250"> |
-| [Ducati Motor Holding](https://www.ducati.com/us/en/home) |
+| <img src="../../sponsor_logos/ducati/logo.png"  width="250"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/perg/logo.png"  width="100"> |
+| [Ducati Motor Holding](https://www.ducati.com/us/en/home) || [MIT PERG](https://pergatory.mit.edu) |
 
 
 ### Racing Partners
