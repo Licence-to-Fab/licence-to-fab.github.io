@@ -59,7 +59,7 @@ See full specifications [here](https://www.dynojet.com/motorcycle-chassis-dynamo
 
 ## Battery/Motor Characterization + Electrical Equipment 
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/bench.jpg" title="Hardware Test Bench" caption="(dc electronics loads, scopes, supplies, + datalogging)" alt="batteries" link="" target="\_blank" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/bench.jpg" title="Hardware Test Bench" caption="(electronic loads, scopes, supplies, + datalogging)" alt="batteries" link="" target="\_blank" %}
 
 We have a lot of equipment to help analyze vehicle batteries including electronic loads for impedance characterization and discharge curve development, and impedance matching for battery cells! We offer this equipment to **MIT community members, Cambridge community members, and high-schools** depending on availability. 
 
