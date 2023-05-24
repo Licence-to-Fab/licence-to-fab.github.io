@@ -32,6 +32,8 @@ The following are resources for general engineering that we compiled for our wor
 
 [The FAA's ACCEPTABLE METHODS, TECHNIQUES, AND PRACTICES—AIRCRAFT INSPECTION AND REPAIR (Section 7, Safety Wire Methods)](https://drive.google.com/file/d/1tSw06zePS63g3Wz79YGt5xviOAI2fiKx/view?usp=share_link)
 
+[The US DoT NHSTA's Failure Mode Analysis for Hydrogen Vehicles](https://drive.google.com/file/d/1W8uPz_L5l6Vr9hztAcji3yXbUoJ1Thde/view?usp=sharing)
+
 ## Mechanical Engineering + Design
 
 [Sigley's Mechanical Engineering Design](/textbooks/Shigley_s%20Mechanical%20Engineering%20Design%2C%209th%20Edition.pdf)
