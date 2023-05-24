@@ -71,3 +71,16 @@ For industry partners, please see our [patners page](../partners) for more infor
 
 All of our work is open source, please see the [Open Source Policy](../terms-and-conditions) page of our website for details. 
 
+## People
+
+**Project Advisors** Professor Alexander H. Slocum, Professor Sangbae Kim
+
+**Team Mentor** (and fabrication guru) Jack Whipple (MIT D-Lab) 
+
+**Project Lead** Aditya 'Adi' Mehrotra (S.M. MIT MechE)
+
+**Graduate Students** Jesse George-Akpenyi (MIT MechE)
+
+**Undergraduate Students** Elizabeth 'Ebby' Brennan, Endy Beltran, Lucas Caragiulo, Mia Ladolcetta, Connie Ly, Annika Marschner, Penelope Herrero-Marques, Miguel Talamantez, Tyler Nagashima, Mustafa Al-Obaidi, Andre Rodriguez
+
+**Collaborators** Elizabeth Jackson (US Department of Energy Fellow) 

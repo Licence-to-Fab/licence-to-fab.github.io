@@ -66,9 +66,9 @@ That being said, we are comitted to working with organizations that are actively
 
 ### Special Thank You To
 - Professor Alex Slocum, Steven Burcat, Ben Owen-Block, + Trevor Ryan Murphy
+- Jack Whipple @ MIT D-Lab
 - Ed Moriarty, Chris, Sandi, + the Edgerton Center Staff
 - Mark Belanger @ the Edgerton Student Shop
-- Jack Whipple @ MIT D-Lab
 - Dan Gilbert @ MIT LMP
 - Danny, Bill, + the Shop Staff @ the Pappalardo Lab
 - Professor Marty Culpepper
