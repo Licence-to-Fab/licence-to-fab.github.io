@@ -34,6 +34,10 @@ The following are resources for general engineering that we compiled for our wor
 
 [The US DoT NHSTA's Failure Mode Analysis for Hydrogen Vehicles](https://drive.google.com/file/d/1W8uPz_L5l6Vr9hztAcji3yXbUoJ1Thde/view?usp=sharing)
 
+[H2 Tools Resources on Hydrogen Safety](https://h2tools.org)
+
+[Hydrogen Codes + Standards Searchable Database](https://h2tools.org/fuel-cell-codes-and-standards?search_api_fulltext=)
+
 ## Mechanical Engineering + Design
 
 [Sigley's Mechanical Engineering Design](/textbooks/Shigley_s%20Mechanical%20Engineering%20Design%2C%209th%20Edition.pdf)
