@@ -71,6 +71,8 @@ We have a lot of equipment to help analyze vehicle batteries including electroni
 - [Micsig CP2100A](https://www.micsig.com/current%20probe/) (AC/DC Current Probe 800KHz 10A/100A)
 - [Migsig DP10013](https://www.micsig.com/Differential%20Probe04/) (High Voltage Differential Probe)
 - [PEAK System PCAN-USB](https://www.peak-system.com/PCAN-USB.199.0.html?&L=1) (Opto-Isolated CAN Bus Sniffer, w/ 120Ω Termination Block)
+- [B&K Precision 2840](https://l.bkprecision.com/products/component-testers/2840-dc-resistance-meter.html) (Low-Resistance, 1µΩ-20kΩ Ohm-meter)
+- [B&K Precision 6011](https://l.bkprecision.com/products/electrical-battery-testers/BA6011-300-v-battery-analyzer.html) (30V/300V Battery Cell/Pack Analyzer)
 
 The following test equipment was generously donated by Rigol, they make awesome stuff! 
 
