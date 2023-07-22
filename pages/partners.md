@@ -64,6 +64,8 @@ That being said, we are comitted to working with organizations that are actively
 - The Mehrotra Family
 - Nicholas Fiorella
 
+[Support us through Giving @ MIT](https://giving.mit.edu/form/?fundId=2742467&source=WBMPP#/)
+
 ### Special Thank You To
 - Professor Alex Slocum, Steven Burcat, Ben Owen-Block, + Trevor Ryan Murphy
 - Jack Whipple @ MIT D-Lab
