@@ -1,6 +1,14 @@
-I"¯<h1 id="version-1-bike-2022-2023">Version 1 Bike (2022-2023)</h1>
+I"k<h1 id="version-1-bike-2022-2023">Version 1 Bike (2022-2023)</h1>
 
-<p>Documentation for the Version 1 bike is coming soon.</p>
+<p>The following documentation for the Version 1 bike system has been released publicly for use.</p>
+
+<h2 id="energy-management-system">Energy Management System</h2>
+
+<p><a href="https://github.com/Licence-to-Fab/battery-design/blob/main/Documentation/Version%201%20ESS%20Docs.pdf">Version 1 Energy Management System Design + Docs</a><i class="fa-brands fa-creative-commons"></i></p>
+
+<p><a href="https://github.com/Licence-to-Fab/battery-design/tree/main/Mechanical-CAD/V1">Mechanical CAD for Version 1 ESS (STEP)</a><i class="fa-brands fa-creative-commons"></i></p>
+
+<p><a href="https://github.com/Licence-to-Fab/battery-design/tree/main/Tools">Individual Cell Resistance Data + Impedance Matching Script</a><i class="fa-brands fa-creative-commons"></i></p>
 
 <h1 id="initial-documentation-v0">Initial Documentation (v0)</h1>
 

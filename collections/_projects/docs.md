@@ -17,7 +17,15 @@ gallery:
 
 # Version 1 Bike (2022-2023)
 
-Documentation for the Version 1 bike is coming soon.
+The following documentation for the Version 1 bike system has been released publicly for use. 
+
+## Energy Management System
+
+[Version 1 Energy Management System Design + Docs](https://github.com/Licence-to-Fab/battery-design/blob/main/Documentation/Version%201%20ESS%20Docs.pdf)<i class="fa-brands fa-creative-commons"></i>
+
+[Mechanical CAD for Version 1 ESS (STEP)](https://github.com/Licence-to-Fab/battery-design/tree/main/Mechanical-CAD/V1)<i class="fa-brands fa-creative-commons"></i>
+
+[Individual Cell Resistance Data + Impedance Matching Script](https://github.com/Licence-to-Fab/battery-design/tree/main/Tools)<i class="fa-brands fa-creative-commons"></i>
 
 # Initial Documentation (v0) 
 

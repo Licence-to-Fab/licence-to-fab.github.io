@@ -50,9 +50,17 @@ The following are resources for general engineering that we compiled for our wor
 
 [MIT 2.70 FUNdaMENTALs of Precision Product Design—Professor Alex H. Slocum](https://web.mit.edu/2.70/Resources.html)
 
+## Battery Systems
+
+[Procedures for Battery Internal Resistance Measurement + Matching](https://github.com/Licence-to-Fab/battery-design/blob/main/Documentation/Battery_Modeling___Internal_Resistance_Matching.pdf)<i class="fa-brands fa-creative-commons"></i>
+
+[MIT EVT Battery Design Github Repository](https://github.com/Licence-to-Fab/battery-design/tree/main)<i class="fa-brands fa-creative-commons"></i>
+
 ## Electronics, Motors, + Motor Control
 
 [The Art + Science of PCB Design](https://pcb.mit.edu) <i class="fa-brands fa-creative-commons"></i>
+
+[MIT Motor Lab—A resource on motor design and control](https://motors.mit.edu)
 
 [Motors + Motor Control General Resources](https://pcb.mit.edu/lectures/lecture_x/)
 
