@@ -5,10 +5,10 @@
     <meta content="ie=edge" http-equiv="x-ua-compatible">
     <meta content="width=device-width, initial-scale=1" name="viewport">
 
-    <title>MIT Electric Vehicle Team (EVT)</title>
+    <title>Version 1 Battery Documentation Released - MIT Electric Vehicle Team (EVT)</title>
 
 
-  <meta name="description" content="The homepage of MIT's open-source hydrogen fuel-cell motorcycle project including design documentation, safety standards, links to resources, and more."/>
+  <meta name="description" content="MIT EVT releases design details on Version 1 Energy Storage System (ESS) as well as additional tools for battery design."/>
 
 
 
@@ -38,7 +38,7 @@
   gtag('config', 'G-K2NYG745EH');
 </script>
   </head>
-<body class="page page-home has-static-header">
+<body class="page page-post has-static-header">
 
 
 <div class="menu-main-mobile " id="menu-main-mobile">
@@ -53,7 +53,7 @@
     
       <ul class="menu">
         
-          <li class="menu-item-home active ">
+          <li class="menu-item-home">
             <a href="/">Home</a>
           </li>
         
@@ -178,7 +178,7 @@
     
       
         
-        <li class="active">
+        <li class="">
           <a href="/">Home</a>
         </li>
       
@@ -231,7 +231,7 @@
 <div id="wrapper" class="wrapper">     
   <div class="section">
   <div class="container">
-    <div class="row">
+    <div class="row justify-content-center">
       <div class="col-12">
         
 
@@ -248,392 +248,182 @@
   
   
   <div class="heading-heading">
-    <h1>We are a racing team and constructor using <strong>Hydrogen</strong> to build a <strong>Cleaner Future.</strong></h1>
+    <h1>Version 1 Battery Documentation Released</h1>
   </div>
   
   
   
     <div class="heading-description">
-      <p>We are building an open-source, Hydrogen fueled power unit for vehicles to bring us towards a more Carbon Negative future.</p>
+      <p>MIT EVT releases design details on Version 1 Energy Storage System (ESS) as well as additional tools for battery design.</p>
     </div>
   
 
+  
+    <div class="heading-image">
+      <img  alt="Version 1 Battery Documentation Released"  src="/assets/images/gen/blog/battery2.png"/>
+    </div>
   
 </div>
       </div>
     </div>
   </div>
 </div>
-
-
 
 <div class="section pt-0">
   <div class="container">
-    <div class="row">
-     
-      
-      <div
-        class="col-12 col-md-6 mb-gutter mt-gutter mt-0  mt-md-0">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+        
+        
+          <div class="mb-2">
+          
+            
+
+
+
+
+<div class="author">
+  
+
+  
+</div>
+          
+          </div>
+        
+        
+        <div class="content"><iframe width="560" height="315" src="https://www.youtube.com/embed/hdNO4Q_LAoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<p>After a few months of work we’re really excited to announce our version 1 battery system and its associated documentation! It’s worth noting that this first version battery system is a <em>prototype system</em> that’s mainly intended for us to collect data during the initial stages of research. It will be followed by a more complete, optimized, and detailed battery design within the next 6 months that’s based on data collected from version 1, performance requirements of the vehicle, as well as simulation.</p>
+
+<h3 id="version-1-essbattery-specifications">Version 1 ESS/Battery Specifications</h3>
+<ul>
+  <li>System Voltage: 50V (12s)</li>
+  <li>System Capacity: 32Ah</li>
+  <li>Cells: SPIM08HP (16Ah)</li>
+  <li>Configuration: 12s2p</li>
+</ul>
+
+<p>The associated documentation is split into two main components, detailed information on specifically the version 1 battery system itself, and tools developed for general battery systems development. Documentation specific to the version 1 ESS includes documentation on cell choices, mechanical design and structure, BMS system setup, and Mechanical CAD of the battery. This documentation is intended for <em>hobbyists to replicate this battery for use in light-duty electric vehicle systems.</em></p>
+
+<p>Tools developed for general battery systems development include a document outlining cell internal resistance measurement, and methods for pack and module-level resistance matching to optimize battery performance. We have also released a <strong>Python script that can take cell resistance data as an input, and output a resistance-matched pack configuration.</strong> The output is not optimal, but we will develop the tool further for release in the next version. It is likely good enough for most applications on <strong>Solar Car and FSAE teams, or hobby-grade vehicles.</strong> But, it should likely not be used for commercial application at the moment.</p>
+
+<p><strong>Please note that contributions to our documentation, and suggested edits for clarity or function are always welcome.</strong></p>
+
+<h2 id="documentation-links">Documentation Links</h2>
+
+<p><a href="https://github.com/Licence-to-Fab/battery-design/blob/main/Documentation/Version%201%20ESS%20Docs.pdf">Version 1 Energy Management System Design + Docs</a><i class="fa-brands fa-creative-commons"></i></p>
+
+<p><a href="https://github.com/Licence-to-Fab/battery-design/tree/main/Mechanical-CAD/V1">Mechanical CAD for Version 1 ESS (STEP)</a><i class="fa-brands fa-creative-commons"></i></p>
+
+<p><a href="https://github.com/Licence-to-Fab/battery-design/tree/main/Tools">Individual Cell Resistance Data + Impedance Matching Script</a><i class="fa-brands fa-creative-commons"></i></p>
+
+<p><a href="https://github.com/Licence-to-Fab/battery-design/blob/main/Documentation/Battery_Modeling___Internal_Resistance_Matching.pdf">Procedures for Battery Internal Resistance Measurement + Matching</a><i class="fa-brands fa-creative-commons"></i></p>
+
+<p><a href="https://github.com/Licence-to-Fab/battery-design/tree/main">MIT EVT Battery Design Github Repository</a><i class="fa-brands fa-creative-commons"></i></p>
+
+</div>
+
+        
+        <div class="categories">
         
 
 
-
-
-
-
-
-
-
-
-
-
-
-<div class="card card-project card-column card-has-thumbnail ">
-
   
-    <div class="card-thumbnail ">
-      <a href="/projects/r+d/"><img alt="Long Term R + D" src="/assets/images/gen/content/gb_frame.jpg"/></a>
-    </div>
-  
+    
 
-  <div class="card-content">
-    <div class="card-title">
-      <h2>
-        <a href="/projects/r+d/">Long Term R + D</a>
-      </h2>
-    </div>
-    
-      <div class="card-client">
-        Upcoming technology + innovation
-      </div>
-    
-  </div>
+
+
+
+<div class="category-link">
+<a href="/category/announcements">
+  Announcements
+</a>
+
 </div>
-      </div>
-      
-      <div
-        class="col-12 col-md-6 mb-gutter mt-gutter   mt-md-0">
+  
+    
+
+
+
+
+<div class="category-link">
+<a href="/category/engineering">
+  Engineering
+</a>
+
+</div>
+  
+
+        
+        </div>
+
+        
+        
         
 
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card card-project card-column card-has-thumbnail ">
-
-  
-    <div class="card-thumbnail ">
-      <a href="/projects/docs/"><img alt="Engineering Documentation" src="/assets/images/gen/content/gb.jpg"/></a>
-    </div>
-  
-
-  <div class="card-content">
-    <div class="card-title">
-      <h2>
-        <a href="/projects/docs/">Engineering Documentation</a>
-      </h2>
-    </div>
-    
-      <div class="card-client">
-        Detailed design + documentation
-      </div>
-    
-  </div>
-</div>
-      </div>
-      
-      <div
-        class="col-12 col-md-6 mb-gutter mt-gutter   mt-md-0">
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card card-project card-column card-has-thumbnail ">
-
-  
-    <div class="card-thumbnail ">
-      <a href="/projects/safety/"><img alt="Design Methodology + Safety" src="/assets/images/gen/content/safety.jpg"/></a>
-    </div>
-  
-
-  <div class="card-content">
-    <div class="card-title">
-      <h2>
-        <a href="/projects/safety/">Design Methodology + Safety</a>
-      </h2>
-    </div>
-    
-      <div class="card-client">
-        Developing rigorous standards for both safety + design
-      </div>
-    
-  </div>
-</div>
-      </div>
-      
-      <div
-        class="col-12 col-md-6 mb-gutter mt-gutter  mb-0 mt-md-0">
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card card-project card-column card-has-thumbnail ">
-
-  
-    <div class="card-thumbnail ">
-      <a href="/projects/toothless/"><img alt="the 2023 Bike—'Toothless'" src="/assets/images/gen/content/bike-2.jpg"/></a>
-    </div>
-  
-
-  <div class="card-content">
-    <div class="card-title">
-      <h2>
-        <a href="/projects/toothless/">the 2023 Bike—'Toothless'</a>
-      </h2>
-    </div>
-    
-      <div class="card-client">
-        The bike + races + data
-      </div>
-    
-  </div>
-</div>
-      </div>
-      
-    </div>
-  </div>
-</div>
-
-
-
-
-<div class="section bg-base-bg-2">
-  <div class="container">
-    <div class="row">
-      
-
-
-
-
-
-<div class="col-12">
-  <div class="grid-header grid-header-align-left">
-    <h2>Recent Posts</h2>
-    
-  </div>
-</div>
-
-      
-      <div
-        class="col-12 col-md-4 mb-gutter mt-gutter mt-0  mt-md-0">
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card card-post card-column  ">
-
-  
-
-  <div class="card-content">
-    
-
-    <div class="card-title">
-      <h3>
-        <a href="/blog/2023-7-23-battery_docs_v1/">Version 1 Battery Documentation Released</a>
-      </h3>
-    </div>
-
-    
-
-    
-      <div class="card-description">
-        <p>MIT EVT releases design details on Version 1 Energy Storage System (ESS) as well as additional tools for battery design.</p>
-      </div>
-    
-
-    
-
-    
-
-  </div>
-</div>
-      </div>
-      
-      <div
-        class="col-12 col-md-4 mb-gutter mt-gutter   mt-md-0">
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card card-post card-column  ">
-
-  
-
-  <div class="card-content">
-    
-
-    <div class="card-title">
-      <h3>
-        <a href="/blog/2023-7-13-ducati/">Primary Partner—Ducati Motor Holding</a>
-      </h3>
-    </div>
-
-    
-
-    
-      <div class="card-description">
-        <p>MIT and Ducati partner to explore the future of hydrogen power in motorcycles.</p>
-      </div>
-    
-
-    
-
-    
-
-  </div>
-</div>
-      </div>
-      
-      <div
-        class="col-12 col-md-4 mb-gutter mt-gutter  mb-0 mt-md-0">
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card card-post card-column  ">
-
-  
-
-  <div class="card-content">
-    
-
-    <div class="card-title">
-      <h3>
-        <a href="/blog/2023-5-20-wildrabbit/">Wild Rabbit Moto Show!</a>
-      </h3>
-    </div>
-
-    
-
-    
-      <div class="card-description">
-        <p>MIT EVT takes the "Best in Show" and "Best Creative Mod" awards at the Wild Rabbit Community Moto Show 2023!</p>
-      </div>
-    
-
-    
-
-    
-
-  </div>
-</div>
-      </div>
-      
-    </div>
-  </div>
-</div>
-
-
-<!--INSERT THE SPONSORS / PARTNERS THING HERE!!!-->
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12"></div>
-      
-
-
-<div class="partners">
-  <div class="row justify-content-left align-items-center">
-    
-    <div class="col-4 col-lg-2 text-center mb-1 mt-1">
-      <img src="/sponsor_logos/Doosan/doosan_black.png" alt="Doosan Mobility Innovation" />
-    </div>
-    
-    <div class="col-4 col-lg-2 text-center mb-1 mt-1">
-      <img src="/sponsor_logos/ec/logo_black.svg" alt="MIT Edgerton Center" />
-    </div>
-    
-    <div class="col-4 col-lg-2 text-center mb-1 mt-1">
-      <img src="/sponsor_logos/ducati/logo.png" alt="Ducati" />
-    </div>
-    
-    <div class="col-4 col-lg-2 text-center mb-1 mt-1">
-      <img src="/sponsor_logos/perg/logo.png" alt="Precision Engineering Research Group" />
-    </div>
-    
-    <div class="col-4 col-lg-2 text-center mb-1 mt-1">
-      <img src="/sponsor_logos/rigol/logo.png" alt="Rigol Technologies" />
-    </div>
-    
-  </div>
-</div>
       </div>
     </div>
   </div>
 </div>
-<!--I THINK THE VARIABLE SITE.DATA.PARTNERS IS NOT BEING ASSIGNED-->
 
+<!-- 
 
+  <div class="section bg-base-bg-2">
+    <div class="container">
+      <div class="row">
+        <div class="col-12"></div>
+        <div class="subscribe">
+  <div class="row">
+    <div class="col-12 col-md-4 mb-2 mb-md-0">
+      <h2 class="">Let's keep in touch</h2>
+    </div>
 
+    <div class="co-12 col-md-8">
+      <div id="mc_embed_signup">
+        <form action="https://zerostatic.us13.list-manage.com/subscribe/post?u=675276692aebec1c007f8156d&amp;id=3e3da720c2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="subscribe-form" target="_blank" novalidate>
+          <div class="subscribe-fields">
+            <input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Your email address" type="email" value="" />
+            <div aria-hidden="true" style="position: absolute; left: -5000px"><input name="b_675276692aebec1c007f8156d_3e3da720c2" tabindex="-1" type="text" value="" /></div>
+            <input type="submit" value="Submit" />
+          </div>
+          <div class="subscribe-responses" id="mce-responses">
+            <div class="response response-error" id="mce-error-response" style="display: none"></div>
+            <div class="response response-success" id="mce-success-response" style="display: none"></div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
 
+<script src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js" type="text/javascript"></script>
+<script type="text/javascript">
+  (function ($) {
+    window.fnames = new Array();
+    window.ftypes = new Array();
+    fnames[0] = "EMAIL";
+    ftypes[0] = "email";
+    fnames[1] = "FNAME";
+    ftypes[1] = "text";
+    fnames[2] = "LNAME";
+    ftypes[2] = "text";
+    fnames[3] = "ADDRESS";
+    ftypes[3] = "address";
+    fnames[4] = "PHONE";
+    ftypes[4] = "phone";
+    fnames[5] = "BIRTHDAY";
+    ftypes[5] = "birthday";
+  })(jQuery);
+  var $mcj = jQuery.noConflict(true);
+</script>
+<!--End mc_embed_signup-->
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+ -->
 
 </div>
 
