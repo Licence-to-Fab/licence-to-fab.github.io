@@ -46,6 +46,8 @@ The following are resources for general engineering that we compiled for our wor
 
 [History of Strenght of Materials](/textbooks/History%20of%20Strength%20of%20Materials%20-%20Timoshenko.pdf)
 
+[NIST Mechanical Properties for Aluminum Alloys](/textbooks/outside%20resources/Mecnanical%20Properties%20Data.pdf)
+
 [FUNdaMENTALs of Design—Professor Alex H. Slocum](https://meddevdesign.mit.edu/fundamentals-of-design/)
 
 [MIT 2.70 FUNdaMENTALs of Precision Product Design—Professor Alex H. Slocum](https://web.mit.edu/2.70/Resources.html)
