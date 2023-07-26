@@ -7,7 +7,7 @@ weight: 3
 permalink: /projects/toothless/
 thumbnail: "/assets/images/gen/content/bike-2.jpg"
 image: "/assets/images/gen/content/bike-2.jpg"
-categories: ["Engineering"]
+categories: ["Engineering", "Racing"]
 client: "The bike + races + data"
 role: "Page contains vehicle info, data from races, and future races."
 gallery:
