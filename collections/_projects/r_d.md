@@ -34,7 +34,7 @@ Any questions, comments, or otherwise, you can always reach out to us at [l2f@mi
 
 ## Events
 
-| <img src="../../sponsor_logos/WHS/logo.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<img src="../../sponsor_logos/CES/logo.png"  width="200">|
+| <img src="../../sponsor_logos/WHS/logo.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<img src="../../sponsor_logos/WHS/america.png"  width="200">| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/CES/logo.png"  width="200">|
 
 #### Coming Soon! See you there!
 
