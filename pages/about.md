@@ -39,17 +39,17 @@ We work in four key research areas we identified based on market research, and l
 
 Fuel Cells are expensive, especially PEM fuel cells. We want to use intelligent manufacturing and scaling to make the techology more acessible, and improve their efficiency and energy density. Hydrogen storage on vehicles must be secure and safe; we seek to improve on current methods to ensure safe operation of these vehicles. Hydrogen generation is difficult, green hydrogen generation more so. We seek to understand the methods of green hydrogen generation and attempt to improve upon them.
 
-We will not be looking into Hydrogen Combustion at this time. Combustion produces harmful greenhouse gasses.
+We will not be looking into Hydrogen Combustion at this time. Combustion produces harmful greenhouse gas emissions.
 
 ### Power Storage
 
-The limitations of hydrogen fuel cells (such as a lack of regenerative braking capacity) are often mitigated by the use of a power storage element such as a lithium battery. Is it our belief that the hybrid combination of storage element and a hydrogen fuel cell can lead to a more effective power train. We want to look into supercapacitors as an alternative to lithium batteries and help develop a set of associated, open-source power electronics for the integration of super capacitors with hydrogen fuel cells.
+The limitations of hydrogen fuel cells (such as a lack of regenerative braking capacity) are often mitigated by the use of a power storage element such as a lithium battery. Is it our belief that the hybrid combination of storage element and a hydrogen fuel cell can lead to a more effective power train. We want to look into supercapacitors as an alternative to lithium batteries and help develop a set of associated, open-source power electronics for the integration of super capacitors with hydrogen fuel cells (or alternate energy storage methods).
 
 ### Powertrains, Motors, + Motor Control
 
-Higher efficiency motor and motor controller designs that can provide the same mechanical power output at greater efficiencies would allow a significant reduction in the required size of fuel cells and storage elements in a vehicle system. This would make the technology more compact, less expensive, and more practical to implement. Therefor we want to look into efficient electric motor and inverter design, as well as optimal gear ratios and transmissions for vehicles. 
+Higher efficiency motor and motor controller designs that can provide the same mechanical power output at greater efficiencies would allow a significant reduction in the required size of fuel cells and storage elements in a vehicle system. This would make the technology more compact, less expensive, and more practical to implement. Therefor, we want to look into efficient electric motor and inverter design, as well as optimal gear ratios and transmissions for vehicles. 
 
-**We will establish key partnerships within industry and academia in an effort to achieve the listed research goals.**
+**We will establish key partnerships within industry and academia in an effort to achieve the listed research goals. We will contribute to existing open-source projects to form a collaborative network working on making hydrogen vehicles a reality.**
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/bike.jpg" title="2022 Bike Toothless" caption="(in progress)" alt="2022 Bike" link="" target="\_blank" %}
 
@@ -84,3 +84,5 @@ All of our work is open source, please see the [Open Source Policy](../terms-and
 **Undergraduate Students** Elizabeth 'Ebby' Brennan, Endy Beltran, Lucas Caragiulo, Mia Ladolcetta, Connie Ly, Annika Marschner, Penelope Herrero-Marques, Miguel Talamantez, Tyler Nagashima, Mustafa Al-Obaidi, Andre Rodriguez
 
 **Collaborators** Elizabeth Jackson (US Department of Energy Fellow) 
+
+**Interns (from outside MIT)** Yes! We take Interns! Reach out to us to learn more!

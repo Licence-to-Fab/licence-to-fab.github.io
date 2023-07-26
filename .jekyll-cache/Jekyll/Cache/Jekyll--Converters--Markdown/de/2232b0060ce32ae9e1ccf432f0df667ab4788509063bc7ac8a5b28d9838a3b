@@ -1,0 +1,74 @@
+I"�<h1 id="ghost-rider-tims-engineering-calculators">Ghost Rider Tim’s Engineering Calculators</h1>
+
+<p>The following Excel Spreadsheets were developed by our team for our own engineering work. We are open-sourcing these calculators for public use to enable others to design safe, and reliable systems. <strong>Please note that these calculators come with reccomended reading resources, that we HIGHLY reccomend you review before using these calculators.</strong></p>
+
+<p><a href="/calculators/bolt_calculator_v1-1.xlsx">Bolted Joint Calculator</a> <i class="fa-brands fa-creative-commons"></i></p>
+
+<p><a href="/calculators/slips_and_fits_v1-1.xlsx">Slip + Interference Fits</a> <i class="fa-brands fa-creative-commons"></i></p>
+
+<p><img src="/Licence%20to%20Fab%20Logos/biker_gang_logos/GhostRiderTIMv2.png" width="40%" /></p>
+
+<h1 id="engineering-resources">Engineering Resources</h1>
+
+<p>The following are resources for general engineering that we compiled for our work. Please note that we only publish resources which are freely avaliable online or have been open-sourced. For books that don’t have PDFs linked you will likely have to purchase them, or gain access through your local/university library.</p>
+
+<h2 id="safety">Safety</h2>
+
+<p><a href="https://drive.google.com/file/d/1tSw06zePS63g3Wz79YGt5xviOAI2fiKx/view?usp=share_link">The FAA’s ACCEPTABLE METHODS, TECHNIQUES, AND PRACTICES—AIRCRAFT INSPECTION AND REPAIR (Section 7, Safety Wire Methods)</a></p>
+
+<p><a href="https://drive.google.com/file/d/1W8uPz_L5l6Vr9hztAcji3yXbUoJ1Thde/view?usp=sharing">The US DoT NHSTA’s Failure Mode Analysis for Hydrogen Vehicles</a></p>
+
+<p><a href="https://h2tools.org">H2 Tools Resources on Hydrogen Safety</a></p>
+
+<p><a href="https://h2tools.org/fuel-cell-codes-and-standards?search_api_fulltext=">Hydrogen Codes + Standards Searchable Database</a></p>
+
+<h2 id="mechanical-engineering--design">Mechanical Engineering + Design</h2>
+
+<h4 id="general-design-resources">General Design Resources</h4>
+
+<p><a href="https://ia903102.us.archive.org/33/items/MechanicalEngineeringDesign9th/Mechanical%20Engineering%20Design%209th.pdf">Shigley’s Mechanical Engineering Design</a></p>
+
+<p><a href="https://meddevdesign.mit.edu/fundamentals-of-design/">FUNdaMENTALs of Design—Professor Alex H. Slocum</a></p>
+
+<p><a href="https://web.mit.edu/2.70/Resources.html">MIT 2.70 FUNdaMENTALs of Precision Product Design—Professor Alex H. Slocum</a></p>
+
+<h4 id="bolted-joints--preload">Bolted Joints + Preload</h4>
+
+<p><a href="https://ntrs.nasa.gov/api/citations/19930081668/downloads/19930081668.pdf">NASA Preliminary Investigation on the Loads on Bolted Joints</a></p>
+
+<p><a href="https://www.athensjournals.gr/technology/2018-5-2-1-Horvath.pdf">Bolt Preload Indication Methods—Hovarth</a></p>
+
+<h4 id="materials">Materials</h4>
+
+<p><a href="https://docs.google.com/file/d/0Bw8MfqmgWLS4a29Ea1lYdDdaZzg/edit?resourcekey=0-qPcTn8LarEhPy_5Gkpt_PQ">History of Strenght of Materials—Timoshenko</a></p>
+
+<p><a href="https://materialsdata.nist.gov/bitstream/handle/11115/177/Mecnanical%20Properties%20Data.pdf?sequence=3&amp;isAllowed=y">NIST Mechanical Properties for Aluminum Alloys</a></p>
+
+<h2 id="battery-systems">Battery Systems</h2>
+
+<p><a href="https://github.com/Licence-to-Fab/battery-design/blob/main/Documentation/Battery_Modeling___Internal_Resistance_Matching.pdf">Procedures for Battery Internal Resistance Measurement + Matching</a><i class="fa-brands fa-creative-commons"></i></p>
+
+<p><a href="https://github.com/Licence-to-Fab/battery-design/tree/main">MIT EVT Battery Design Github Repository</a><i class="fa-brands fa-creative-commons"></i></p>
+
+<h2 id="electronics-motors--motor-control">Electronics, Motors, + Motor Control</h2>
+
+<h4 id="general-electronics-design-resources">General Electronics Design Resources</h4>
+
+<p><a href="https://pcb.mit.edu">The Art + Science of PCB Design</a> <i class="fa-brands fa-creative-commons"></i></p>
+
+<p><a href="https://pcb.mit.edu/resources/">List of Electronics Resources</a></p>
+
+<p><a href="https://www.physics.wisc.edu/courses/home/fall2022/321/sn/The%20Art%20of%20Electronics%20-%202nd%20ed.pdf">The Art of Electronics—Horowitz and Hill</a></p>
+
+<h4 id="motors--motor-control">Motors + Motor Control</h4>
+
+<p><a href="/textbooks/Dynos_for_Dummies.pdf">Dynos for Dummies</a> <i class="fa-brands fa-creative-commons"></i></p>
+
+<p><a href="https://motors.mit.edu">MIT Motor Lab—A resource on motor design and control</a></p>
+
+<p><a href="https://pcb.mit.edu/lectures/lecture_x/">Motors + Motor Control General Resources</a></p>
+
+<p><a href="https://www.sciencedirect.com/book/9780128121382/electric-motor-control">Electric Motor Control—Sang Hoon Kim</a></p>
+
+<p><img src="/sponsor_logos/pcb/logo.png" width="40%" /></p>
+:ET
