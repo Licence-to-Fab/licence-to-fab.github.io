@@ -65,7 +65,6 @@ We have a lot of equipment to help analyze vehicle batteries including electroni
 
 ### Equipment List
 
-- [5V 40A Charge/Discharge Cell Cycler + Datalogger](https://batteryhookup.com/products/zketech-ebc-a40l-capacity-tester-0-5v-40a-charge-discharge)
 - [CEM DT-5302 4-Wire Multimeter](https://www.cem-instruments.com/en/product-id-904)
 - TDK Lambda Programmable [Power Supply 150V @ 22A DC](https://product.tdk.com/en/search/power/switching-power/prg-power/info?part_no=GEN%20150-22-3P480)
 - [Micsig CP2100A](https://www.micsig.com/current%20probe/) (AC/DC Current Probe 800KHz 10A/100A)
