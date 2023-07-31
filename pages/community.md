@@ -72,7 +72,7 @@ We have a lot of equipment to help analyze vehicle batteries including electroni
 - [PEAK System PCAN-USB](https://www.peak-system.com/PCAN-USB.199.0.html?&L=1) (Opto-Isolated CAN Bus Sniffer, w/ 120Ω Termination Block)
 - [B&K Precision 2840](https://l.bkprecision.com/products/component-testers/2840-dc-resistance-meter.html) (Low-Resistance, 1µΩ-20kΩ Tester)
 - [B&K Precision 6011](https://l.bkprecision.com/products/electrical-battery-testers/BA6011-300-v-battery-analyzer.html) (30V/300V Battery Cell/Pack Analyzer)
-- [Central Machinery Ultrasonic Cleaner](https://www.harborfreight.com/6-liter-ultrasonic-parts-cleaner-59430.html) (from Harbor Freight Tools)
+- [Central Machinery Ultrasonic Cleaner](https://www.harborfreight.com/6-liter-ultrasonic-parts-cleaner-59430.html) (Harbor Freight Tools)
 
 The following test equipment was generously donated by Rigol, they make awesome stuff! 
 
