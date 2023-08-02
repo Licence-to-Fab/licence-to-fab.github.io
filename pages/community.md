@@ -43,7 +43,7 @@ We offer the following general resources for vehicle development that the MIT an
 
 ## Motorcycle Dynamometer Tuning
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/dynojet2.jpg" title="Dynojet 250i Motorcycle Chassis Dynamometer" caption="(status: fully operational)" alt="dyno" link="" target="\_blank" %}
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/dynojet2.jpg" title="Dynojet 250i Motorcycle Chassis Dynamometer" caption="(status: operational)" alt="dyno" link="" target="\_blank" %}
 
 We have a Motorcycle Dynamometer! Dynamometers are used to determine the performance and efficiency of motorcycle systems and also allow the user to tune the performance to the desired specifications. We own and operate a dynamometer which we allow **MIT community members, Cambridge community members, and high-schools to access** depending on availability and desired use. 
 
