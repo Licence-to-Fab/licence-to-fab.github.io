@@ -89,15 +89,15 @@ We consider any support below 1000USD a tax-deductible __donation__ that we grac
 
 __Primary Partners__ recieve the following benefits from support:
 - Name and logo on website, vehicle, team apparel, and support vehicles.
-- Team representation @ partner events.
-- Updates on team activities + progress.
+- Presentation-based updates on team activities + progress.
+- Potential connections between partners, or within the university (if appropriate). 
 - Social media post/blog post/or similar.
 
 *Primary partners offering in-kind donations must provide direct engineering support for the integration of your products onto our platform. In return, we may agree to provide appropriate, un-biased product feedback for internal use only.*
 
 __Racing Partners__ recieve the following benefits from support:
 - Name and logo on website, vehicle, team apparel, and support vehicles.
-- Updates on team activities + progress.
+- Email updates on team activities + progress.
 - Social media post/blog post/or similar.
 
 __Supporting Partners__ recieve the following benefits from support:
