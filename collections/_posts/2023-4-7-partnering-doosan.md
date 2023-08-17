@@ -23,8 +23,4 @@ Thanks so much Doosan! We're looking forward to working with you!
 
 ## Resource Links
 
-[Bloomberg Press Release](https://www.bloomberg.com/press-releases/2023-03-29/mit-s-electric-vehicle-team-partners-with-dmi-to-create-one-of-the-first-ever-open-source-hydrogen-fuel-cell-powered)
-
-[WSJ Press Release](https://www.wsj.com/articles/mit-s-electric-vehicle-team-partners-with-dmi-to-create-one-of-the-first-ever-open-source-hydrogen-fuel-cell-powered-motorcycles-4f414633?mod=Searchresults)
-
 [MITERS Journal—MIT EVT + DMI](http://miters.mit.edu/large_media/MITERS_Journal_Fall_2022.pdf)
