@@ -9,13 +9,16 @@ image: ""
 
 # We want to support our local community. 
 
-**Licence to Fab** isn't just our name, it's an ideology. Fabrication, to us, represents the ability to make anything you can dream of with your own two hands. This focus on considering "how to build things really well" while desinging them, allows us to do the creative, ground-breaking work we do. 
+Fabrication, to us, represents the ability to make anything you can dream of with your own two hands. This focus on considering "how to build things really well" while desinging them, allows us to do the creative, ground-breaking work we do. 
 
 More and more, the world is moving away from teaching fabrication in favor of more "computational" methods. Fewer high-schools have "shop" classes that teach students how to fix cars, or build super awesome things. So since fabrication is so core to what we do, we want to offer the ability to learn those skills to our local community. We believe fabrication teaches you the detailed, rigorous, physics-based, creative engineering required to understand and solve world problems. **And we want to offer the ability to learn that to anyone regardless of race, gender, socio-economic status, or educational background.**
 
 > We want to inspire people to make the world a better place, and give them the knowledge and tools to do so. We want to give them the ability to build solutions to the problems they see with their own two hands. 
 
 Come build a better world with us <3.
+
+| <img src="../../sponsor_logos/ei/logo.png"  width="150"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/eecs/logo.png"  width="150"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/madhouse/logo.png"  width="100"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/qari/logo.png"  width="150"> |
+| [MIT DtET FPOP](https://firstyear.mit.edu/orientation/pre-orientation-programs-fpops/de-discover-energy/) || [MIT DEE FPOP](https://firstyear.mit.edu/orientation/pre-orientation-programs-fpops/dee-discover-electrical-engineering/) || [Wild Rabbit Moto Show](https://www.madhousemotors.com/wild-rabbit) || [QARI Drives Green](https://www.qariusa.org/transportation) |
 
 # We offer programs for high-school students grades 9-12.
 

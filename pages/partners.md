@@ -11,44 +11,37 @@ image: ""
 
 We establish key partnerships with industry, and within academia to further our mission to enable the development of hydrogen-powered vehicles. This is absolutely critical to the work we do, we cannot hope to reframe the way industry thinks about vehicle power systems without fully understanding the issues relating to developing green transportation from the people actually developing it. Our partners aren't just sponsors, we work directly with them, and their core engineering teams to share knowledge and limitations, openly and fairly.
 
-## Our current organizational needs.
+## Partnership values statement.
 
-We focus on building partnerships with companies that are addressing our key areas of research in energy storage, hydrogen fuel cell development, hydrogen production and storage, powertrains and motor control, and vehicle development. Currently we are focusing on building partnerships in the following areas.
-
-- __Hydrogen Fuel Cell Manfacturing + Design__, we are looking to work with organizations or academic institutions with experience in Hydrogen Fuel Cell production and design to increase the efficacy of fuel cells and reduce their cost of manufacturing.
-- __Hydrogen Generation + Storage__, we are looking to work with organizations or academic institutions with experience in Hydrogen Generation and Storage to develop safety standards for hydrogen vehicles and further research into the production of green hydrogen for vehicles.
-- __Power Storage__, we are looking to work with organizations or academic institutions with experience in Power Storage solutions such as Super Capacitor technologies to enable lithium-free vehicles in the future.
-- __Powertrains + Motor Control__, we are looking to work with organizations or academic institutions with experience in motors and motor control to develop more efficient power trains tuned for application.
-
-Additionally, we are looking for partners that can provide the following to support our organization's work. 
-
-- __Manufacturing + Facilities Support__, facilities enabling vehicle dynamometer testing and wind tunnel testing, and manufacturing support in metal casting, metal 3D printing, metal fabrication and welding, are all services we need to develop our vehicles and engines.
-- __Automotive Part Supply__, our focus is developing hydrogen for the automotive industry. Therefor our test platforms use many automotive parts that come at cost to us. We're looking for a partner interested in providing discounted or sponsored automotive parts such as brake system parts, lights, semiconductor electronics, batteries, and other vehicle components.
-- __Logistics Support__, this includes shipping of the vehicle or other delicate parts to racetracks and other facilities for competition or testing.
-- __General Funding__, we are always open to general funding to support our operations. Any donations to our work are deeply appreciated and allow us to continue the important work we do as an organization.
+We focus on building partnerships with companies and organizations that are comitted to building a cleaner world through research and investment into clean energy, and clean energy infrastructure. We work with organizations that have strong comittments to the goals set out in the [Paris Climate Accords](https://unfccc.int/process-and-meetings/the-paris-agreement), the [IEA's Net-Zero Emissions by 2050 plan](https://www.iea.org/reports/net-zero-by-2050), or similar climate-focused agreements. We also strongly believe in equal-opportunities and access, and focus on building partnerships with companies that believe the same.
 
 > Please note, we will not accept partnerships from brands that we believe do not align with our values to build a cleaner world. We actively seek to be supported by organizations making a conscious effort to produce a more equitable world for all people regardless of race or gender.
 
 That being said, we are comitted to working with organizations that are actively seeking to improve their green-technology plan, and reduce their carbon footprint.
 
+If you are interested in becoming a partner [see our partner kit for more information](). **(coming soon)**
+
 ## Current Partners
+
+| **Logistics Partner** || **Solution Partner** |
+| <img src="../../sponsor_logos/klm/logo.png" width="400"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/Doosan/doosan_black.png" width="400"> |
+| [AirFrance KLM Martinair Cargo](https://www.afklcargo.com/US/en/local/homepage/homepage.jsp) || [Doosan Mobility Innovation](http://www.doosanmobility.com/en/) |
 
 ### Primary Partners
 
-| <img src="../../sponsor_logos/Doosan/doosan_black.png" width="500"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/ec/logo_black.svg"  width="400"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/d-lab/logo.png"  width="400">|
-|[Doosan Mobility Innovation](http://www.doosanmobility.com/en/)||[MIT Edgerton Center](https://edgerton.mit.edu)||[MIT D-Lab](https://d-lab.mit.edu)|
+| <img src="../../sponsor_logos/ec/logo_black.svg"  width="300"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/d-lab/logo.png"  width="300">| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/ducati/logo.png"  width="350"> |
+|[MIT Edgerton Center](https://edgerton.mit.edu)||[MIT D-Lab](https://d-lab.mit.edu)|| [Ducati Motor Holding](https://www.ducati.com/us/en/home) |
 
-| <img src="../../sponsor_logos/ducati/logo.png"  width="250"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/perg/logo.png"  width="100"> |
-| [Ducati Motor Holding](https://www.ducati.com/us/en/home) || [MIT PERG](https://pergatory.mit.edu) |
-
+| <img src="../../sponsor_logos/perg/logo.png"  width="100"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/ei/logo.png"  width="200"> |
+| [MIT PERG](https://pergatory.mit.edu) || [MIT Energy Initiative](https://energy.mit.edu) |
 
 ### Racing Partners
 
 | <img src="../../sponsor_logos/palmer/logo_black.png" width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/Ansys/ansys_logo_black.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/meche/logo.png"  width="200"> |
 |[Palmer Motorsports Park](https://palmermotorsportspark.com)||[Ansys](https://www.ansys.com)||[MIT Mechanical Engineering](https://meche.mit.edu) |
 
-| <img src="../../sponsor_logos/rigol/logo.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<img src="../../sponsor_logos/ei/logo.png"  width="200">|
-| [Rigol Technologies](https://www.rigolna.com) || [MIT Energy Initiative](https://energy.mit.edu) |
+| <img src="../../sponsor_logos/rigol/logo.png"  width="200"> |
+| [Rigol Technologies](https://www.rigolna.com) |
 
 
 ### Supporting Partners
@@ -74,36 +67,6 @@ That being said, we are comitted to working with organizations that are actively
 - Professor Marty Culpepper
 - [the MIT Solar Electric Vehicle Team](http://mitsolar.com)
 - [MIT Electronics Research Society (MITERS)](http://miters.mit.edu)
-
-# Partnership Information
-
-## Levels of Partnership
-
-- __Primary Partners__, partners who provide the most support for our operations exceeding 10000USD in value (in-kind or monetary).
-- __Racing Partners__, partners that provide significant support for our operations (in-kind or monetary) in the area of 5000USD or more.
-- __Supporting Partners__, partners that provide support for our operations (in-kind or monetary) in the area of 1000USD or more.
-
-We consider any support below 1000USD a tax-deductible __donation__ that we graciously accept with thanks.  
-
-## Partnership Benefits
-
-__Primary Partners__ recieve the following benefits from support:
-- Name and logo on website, vehicle, team apparel, and support vehicles.
-- Presentation-based updates on team activities + progress.
-- Social media post/blog post/or similar.
-
-*Primary partners offering in-kind donations must provide direct engineering support for the integration of your products onto our platform. In return, we may agree to provide appropriate, un-biased product feedback for internal use only.*
-
-__Racing Partners__ recieve the following benefits from support:
-- Name and logo on website, vehicle, team apparel, and support vehicles.
-- Email updates on team activities + progress.
-- Social media post/blog post/or similar.
-
-__Supporting Partners__ recieve the following benefits from support:
-- Name and logo on website, team apparel, and support vehicles.
-- Social media post/blog post/or similar.
-
-__Donations__ recieve a tax-deductible reciept along with a thank-you letter, and their name on the donors section of this page of our website.
 
 ## Open Source Policy + Partnerships
 

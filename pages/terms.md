@@ -23,6 +23,12 @@ When citing work released by us under [creative-commons](https://creativecommons
 
 When citing work by us published in journals, conferences, or similar **please refer to the citation requirements for the scientific formats associated with those journals.**
 
+### The <u>For Good <i class="fa-solid fa-heart"></i></u> Agreement
+
+Our <u>For Good <i class="fa-solid fa-heart"></i></u> agreement states that by accessing content, or material produced by our team that is published on this website, or in any journal, conference, or proceeding in any publically avaliable format including but not limited to written, video, visual, or any other form of media or information dissemination, you hereby agree to use the material **for good.** The use of the technology **for good** is defined as uses that **positively, and productively benefit humanity and the environment,** and any use of this technology for harming individuals or the environment, supporting the spread of mis-information, exclusion or discrimination of any group based on race, sexual orientation, beliefs, or any other factor will **result in an immediate, irrevocable termination of your rights to use our work without review.** Be a nice human, use our technology <u>For Good <i class="fa-solid fa-heart"></i></u>, to build a better world, not a worse one.
+
+Obviously, uses must also abide by all local and international laws in the country of implementation.
+
 ## Creative Commons
 
 Our work is licensed under a [Creative Commons Attribution Share-Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) because we believe that science is the prusuit of truth, and truth requires openness, and honesty. We also believe engineering is a team sport, and anyone choosing to use our work to build a better world should be able to do so free-of-charge.
@@ -31,11 +37,11 @@ That being said this page is NOT a substitute for the license, please read the [
 
 Please note that all parts of this license apply to our **publically released work.** Publically released work is work that has been released on this website, or on our [Github page](https://github.com/Licence-to-Fab) **and has a visible creative-commons tag attached to it** <i class="fa-brands fa-creative-commons"></i>.
 
-We will release our work when we believe it is complete and ready to iterated upon, unsolicited requests to prematurely release work will not be considered. This is in our effort to keep you safe, and properly validate the technology we release.
+We will release our work when we believe it is complete and ready to be iterated upon, unsolicited requests to prematurely release work will not be considered. This is in our effort to keep you safe, and properly validate the technology we release.
 
 ## Exceptions to Creative Commons
 
-There are no exceptions to the creative commons license for resources, methodologies, safety standards, or similar work WE produce. However, we may use technology developed by our partners or other organizations in our work as well. Any technology developed by a third-party will not be documented on this website or released in any way without expressed written permission of the organization that developed it. In addition, the licensing for said technology is at the discretion of the organization that developed it. We will obey the intellectual property (IP) rights and permissions of any technology we use that isn't developed by us without any exceptions. Any technology that we develop with these partners for their expressed, internal research, will also be protected under research agreements between said company, and MIT. 
+In our work, we may use technology developed by our partners or other organizations. Any technology developed by a third-party will not be documented on this website or released in any way without expressed written permission of the organization that developed it. In addition, the licensing for said technology is at the discretion of the organization that developed it. We will obey the intellectual property (IP) rights and permissions of any technology we use that isn't developed by us without any exceptions. Any technology that we develop with these partners for their expressed, internal research, will also be protected under research agreements between said company, and MIT. 
 
 **Unsolicited requests to look at proprietary technology will not be considered and will be reported to the technology's developer.**
 
