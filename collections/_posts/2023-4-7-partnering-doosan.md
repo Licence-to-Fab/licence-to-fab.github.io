@@ -24,5 +24,3 @@ Thanks so much Doosan! We're looking forward to working with you!
 ## Resource Links
 
 [MITERS Journal—MIT EVT + DMI](http://miters.mit.edu/large_media/MITERS_Journal_Fall_2022.pdf)
-
-[MIT-DMI Approved Blog Post](https://www.doosanmobility.com/en/about-us/news-events/news/21000574?page=1&searchKeyword=)
