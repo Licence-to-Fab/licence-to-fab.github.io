@@ -19,7 +19,7 @@ We focus on building partnerships with companies and organizations that are comi
 
 That being said, we are comitted to working with organizations that are actively seeking to improve their green-technology plan, and reduce their carbon footprint.
 
-If you are interested in becoming a partner [see our partner kit for more information](). **(coming soon)**
+If you are interested in becoming a partner [see our partner kit for more information](/pr/sponsor-pack-2023.pdf).
 
 ## Current Partners
 
