@@ -37,11 +37,8 @@ If you are interested in becoming a partner [see our partner kit for more inform
 
 ### Racing Partners
 
-| <img src="../../sponsor_logos/palmer/logo_black.png" width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/Ansys/ansys_logo_black.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/meche/logo.png"  width="200"> |
-|[Palmer Motorsports Park](https://palmermotorsportspark.com)||[Ansys](https://www.ansys.com)||[MIT Mechanical Engineering](https://meche.mit.edu) |
-
-| <img src="../../sponsor_logos/rigol/logo.png"  width="200"> |
-| [Rigol Technologies](https://www.rigolna.com) |
+| <img src="../../sponsor_logos/rigol/logo.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/Ansys/ansys_logo_black.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/meche/logo.png"  width="200"> |
+|[Rigol Technologies](https://www.rigolna.com)||[Ansys](https://www.ansys.com)||[MIT Mechanical Engineering](https://meche.mit.edu) |
 
 
 ### Supporting Partners
