@@ -90,7 +90,7 @@ All of our work is open source, please see the [Open Source Policy](../terms-and
 
 **Graduate Students** Jesse George-Akpenyi (MIT MechE)
 
-**Undergraduate Students** Elizabeth 'Ebby' Brennan, Endy Beltran, Lucas Caragiulo, Mia Ladolcetta, Connie Ly, Annika Marschner, Penelope Herrero-Marques, Miguel Talamantez, Tyler Nagashima, Mustafa Al-Obaidi, Andre Rodriguez
+**Undergraduate Students** Masarah Ahmedhussain, Maya Ayoub, Elizabeth 'Ebby' Brennan, Endy Beltran, Jesus Diaz, Tori Hagenlocker, Anand John, Mia Ladolcetta, Connie Ly, Annika Marschner, Rachel Mohammed, Carlos Sanchez, Miguel Talamantez, Tyler Nagashima, Mustafa Al-Obaidi, Elysia Yuan
 
 **Collaborators** Elizabeth Jackson (US Department of Energy Fellow) 
 

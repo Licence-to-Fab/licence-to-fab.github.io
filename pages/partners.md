@@ -64,6 +64,9 @@ If you are interested in becoming a partner [see our partner kit for more inform
 - Dan Gilbert @ MIT LMP
 - Danny, Bill, + the Shop Staff @ the Pappalardo Lab
 - Professor Marty Culpepper
+- Jerry and the Dynojet Technical Team
+- Raul @ Electric Motorsport Inc.
+- Rowan, Antje, JJ, Wendy, and Aruna @ the MIT Energy Initiative
 - [the MIT Solar Electric Vehicle Team](http://mitsolar.com)
 - [MIT Electronics Research Society (MITERS)](http://miters.mit.edu)
 
