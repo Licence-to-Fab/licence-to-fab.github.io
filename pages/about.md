@@ -58,7 +58,7 @@ As a group, our focus will be to aid in research into infrastructure development
 
 ## White-paper on Hydrogen Fuel Cell Vehicle Design
 
-We plan to **release a white-paper** on the details of our project and why we think each aspect is important. It'll be a sort of research proposal that covers the main areas we discussed above, but dives further into the technical details and academic research that lead to this project. We hope to release this paper sometime in the Fall of 2023.
+We recently released [a technical white-paper](/report/OSHB_PROPOSAL_AND_OUTLOOK.pdf) on the details of our project and why we think each aspect is important. It covers the main areas we discussed above, but dives further into the technical details and academic research that lead to this project, and our plans for the future.
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/bike.jpg" title="2022/23 Bike Toothless" caption="(in progress)" alt="2022 Bike" link="" target="\_blank" %}
 
