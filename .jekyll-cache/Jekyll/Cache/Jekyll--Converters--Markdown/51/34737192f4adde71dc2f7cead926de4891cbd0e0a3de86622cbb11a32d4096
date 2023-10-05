@@ -1,10 +1,10 @@
-I"k<h1 id="version-1-bike-2022-2023">Version 1 Bike (2022-2023)</h1>
+I"Ù<h1 id="version-1-bike-2022-2023">Version 1 Bike (2022-2023)</h1>
 
 <p>The following documentation for the Version 1 bike system has been released publicly for use.</p>
 
-<h2 id="energy-management-system">Energy Management System</h2>
+<h2 id="energy-storage-system">Energy Storage System</h2>
 
-<p><a href="https://github.com/Licence-to-Fab/battery-design/blob/main/Documentation/Version%201%20ESS%20Docs.pdf">Version 1 Energy Management System Design + Docs</a><i class="fa-brands fa-creative-commons"></i></p>
+<p><a href="https://github.com/Licence-to-Fab/battery-design/blob/main/Documentation/Version%201%20ESS%20Docs.pdf">Version 1 Energy Storage System Design + Docs</a><i class="fa-brands fa-creative-commons"></i></p>
 
 <p><a href="https://github.com/Licence-to-Fab/battery-design/tree/main/Mechanical-CAD/V1">Mechanical CAD for Version 1 ESS (STEP)</a><i class="fa-brands fa-creative-commons"></i></p>
 
@@ -17,14 +17,4 @@
 <h2 id="documentation">Documentation</h2>
 
 <p><a href="https://pcb.mit.edu/lectures/lecture_01/FINAL%20PAPER%20PDF.pdf">High-Level Design of a Hydrogen Fuel Cell Powered Motorcycle</a></p>
-
-<p><a href="https://drive.google.com/file/d/1NaLcHtZK75WVY9kJBI0Gm6WD25vhfLqB/view?usp=share_link">Final Design Poster for a Hydrogen Fuel Cell Motorcycle</a></p>
-
-<p><a href="https://drive.google.com/file/d/1NaLcHtZK75WVY9kJBI0Gm6WD25vhfLqB/view?usp=share_link">Editable Design Spreadsheets in Apple Numbers</a></p>
-
-<h2 id="references">References</h2>
-
-<p><a href="https://drive.google.com/file/d/14dagTV_Kt_qNaStwKDpqd79HEIlbSLdM/view?usp=sharing">KOMMIT MIT Electric Vehicle Team</a></p>
-
-<p><a href="https://drive.google.com/file/d/1JqeItF7qyixFu4TwpxIzmLoaTcoFTl-j/view?usp=share_link">MIT Electric Vehicle Teamâ€”Isle of Man Zero TT</a></p>
 :ET

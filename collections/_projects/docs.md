@@ -19,9 +19,9 @@ gallery:
 
 The following documentation for the Version 1 bike system has been released publicly for use. 
 
-## Energy Management System
+## Energy Storage System
 
-[Version 1 Energy Management System Design + Docs](https://github.com/Licence-to-Fab/battery-design/blob/main/Documentation/Version%201%20ESS%20Docs.pdf)<i class="fa-brands fa-creative-commons"></i>
+[Version 1 Energy Storage System Design + Docs](https://github.com/Licence-to-Fab/battery-design/blob/main/Documentation/Version%201%20ESS%20Docs.pdf)<i class="fa-brands fa-creative-commons"></i>
 
 [Mechanical CAD for Version 1 ESS (STEP)](https://github.com/Licence-to-Fab/battery-design/tree/main/Mechanical-CAD/V1)<i class="fa-brands fa-creative-commons"></i>
 
@@ -34,13 +34,3 @@ Documentation in this section includes the initial feasibility studies for the d
 ## Documentation
 
 [High-Level Design of a Hydrogen Fuel Cell Powered Motorcycle](https://pcb.mit.edu/lectures/lecture_01/FINAL%20PAPER%20PDF.pdf)
-
-[Final Design Poster for a Hydrogen Fuel Cell Motorcycle](https://drive.google.com/file/d/1NaLcHtZK75WVY9kJBI0Gm6WD25vhfLqB/view?usp=share_link)
-
-[Editable Design Spreadsheets in Apple Numbers](https://drive.google.com/file/d/1NaLcHtZK75WVY9kJBI0Gm6WD25vhfLqB/view?usp=share_link)
-
-## References
-
-[KOMMIT MIT Electric Vehicle Team](https://drive.google.com/file/d/14dagTV_Kt_qNaStwKDpqd79HEIlbSLdM/view?usp=sharing)
-
-[MIT Electric Vehicle Team—Isle of Man Zero TT](https://drive.google.com/file/d/1JqeItF7qyixFu4TwpxIzmLoaTcoFTl-j/view?usp=share_link)

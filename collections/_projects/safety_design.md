@@ -50,7 +50,7 @@ Resources are broken down by topic, we do not accept any liability for copyright
 
 #### General Design Resources
 
-[Shigley's Mechanical Engineering Design](https://ia903102.us.archive.org/33/items/MechanicalEngineeringDesign9th/Mechanical%20Engineering%20Design%209th.pdf)
+[Shigley's Mechanical Engineering Design]() — Link NOT Provided
 
 [FUNdaMENTALs of Design—Professor Alex H. Slocum](https://meddevdesign.mit.edu/fundamentals-of-design/)
 
@@ -64,7 +64,7 @@ Resources are broken down by topic, we do not accept any liability for copyright
 
 #### Materials
 
-[History of Strenght of Materials—Timoshenko](https://docs.google.com/file/d/0Bw8MfqmgWLS4a29Ea1lYdDdaZzg/edit?resourcekey=0-qPcTn8LarEhPy_5Gkpt_PQ)
+[History of Strenght of Materials—Timoshenko]() — Link NOT Provided
 
 [NIST Mechanical Properties for Aluminum Alloys](https://materialsdata.nist.gov/bitstream/handle/11115/177/Mecnanical%20Properties%20Data.pdf?sequence=3&isAllowed=y)
 
@@ -86,9 +86,9 @@ Resources are broken down by topic, we do not accept any liability for copyright
 
 [List of Electronics Resources](https://pcb.mit.edu/resources/)<i class="fa-brands fa-creative-commons"></i>
 
-[The Art of Electronics—Horowitz and Hill](https://www.physics.wisc.edu/courses/home/fall2022/321/sn/The%20Art%20of%20Electronics%20-%202nd%20ed.pdf)
+[The Art of Electronics—Horowitz and Hill]() — Link NOT Provided
 
-[Practical Electronics for Inventors](http://instrumentacion.qi.fcen.uba.ar/libro/Scherz.pdf)
+[Practical Electronics for Inventors]() — Link NOT Provided
 
 #### Motors + Motor Control
 
