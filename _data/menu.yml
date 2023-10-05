@@ -73,9 +73,6 @@ footer_tertiary:
   - name: UN Sustinable Development Goals
     url: https://sdgs.un.org/goals
     weight: 3
-  - name: ASME Code of Ethics
-    url: /textbooks/ethics/asme.pdf
-    weight: 2
   - name: Accessibility
     url: https://accessibility.mit.edu
     weight: 1
