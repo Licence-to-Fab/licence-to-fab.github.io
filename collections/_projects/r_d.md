@@ -34,10 +34,6 @@ So while we wish to develop vehicle technology to the point of implementation, o
 
 ## White-Papers + Reports
 
-[Initial Project Literature Review, Proposal, and Direction White-paper](/report/OSHB_PROPOSAL_AND_OUTLOOK.pdf)
-
-[MIT Electric Vehicle Team—Executive Summary](/pr/executive-summary.pdf)
-
 ## Events
 
 | <img src="../../sponsor_logos/WHS/logo.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<img src="../../sponsor_logos/WHS/america.png"  width="200">| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/CES/logo.png"  width="200">|

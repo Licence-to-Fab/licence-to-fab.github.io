@@ -56,10 +56,6 @@ As a group, our focus will be to aid in research into infrastructure development
 
 **We will establish key partnerships within industry and academia in an effort to achieve the listed research goals. We will contribute to existing open-source projects to form a collaborative network working on making hydrogen vehicles a reality.**
 
-## White-paper on Hydrogen Fuel Cell Vehicle Design
-
-We recently released [a technical white-paper](/report/OSHB_PROPOSAL_AND_OUTLOOK.pdf) on the details of our project and why we think each aspect is important. It covers the main areas we discussed above, but dives further into the technical details and academic research that lead to this project, and our plans for the future.
-
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/bike.jpg" title="2022/23 Bike Toothless" caption="(in progress)" alt="2022 Bike" link="" target="\_blank" %}
 
 # We want to prove our work in the real world.
