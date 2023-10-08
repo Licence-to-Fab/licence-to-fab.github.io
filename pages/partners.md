@@ -49,8 +49,8 @@ If you are interested in becoming a partner [see our partner kit for more inform
 | <img src="../../sponsor_logos/madhouse/logo.png"  width="150"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/askov/logo.png"  width="150"> &nbsp; <img src="../../sponsor_logos/askov/knc.png"  width="75"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/altium/logo.png"  width="200">| 
 |[Madhouse Motors](https://www.madhousemotors.com)||[Askov Finlayson](https://askovfinlayson.com)||[Altium Designer](https://www.altium.com)|
 
-| <img src="../../sponsor_logos/eecs/logo.png"  width="200"> |
-| [MIT EECS](https://eecs.mit.edu) |
+| <img src="../../sponsor_logos/eecs/logo.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/rb/logo.png"  width="150"> |
+| [MIT EECS](https://eecs.mit.edu) || [Red Bull](https://www.redbull.com/us-en/) |
 
 ### Donors
 - The Mehrotra Family
