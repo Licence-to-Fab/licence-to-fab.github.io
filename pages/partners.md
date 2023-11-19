@@ -40,8 +40,8 @@ If you are interested in becoming a partner [see our partner kit for more inform
 | <img src="../../sponsor_logos/thompson/logo.png"  width="250"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/Ansys/ansys_logo_black.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/meche/logo.png"  width="200"> |
 |[Thompson Speedway](https://www.thompsonspeedway.com)||[Ansys](https://www.ansys.com)||[MIT Mechanical Engineering](https://meche.mit.edu)|
 
-| <img src="../../sponsor_logos/rigol/logo.png"  width="200"> |
-| [Rigol Technologies](https://www.rigolna.com) |
+| <img src="../../sponsor_logos/rigol/logo.png"  width="200"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/rrr/logo.png"  width="175"> |
+| [Rigol Technologies](https://www.rigolna.com) || [Triple R Lights](https://www.triple-r-lights.com) |
 
 ### Supporting Partners
 
