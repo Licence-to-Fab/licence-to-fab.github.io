@@ -9,16 +9,16 @@ We aim to be fair and open in all our activities, please read the below for deta
 
 # General Licensing of Work
 
-We strongly believe that everything we do should be shared openly and freely with the world. We place exceptions on this policy only in cases to protect our partners, and to address any possible safety concerns with the technology we are developing. Anything that is published on this website *is free,* and falls under a [Creative Commons Attribution Share-Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+We strongly believe that everything we do should be shared openly and freely with the world. We place exceptions on this policy only in cases to protect our partners, and to address any possible safety concerns with the technology we are developing. Anything that is published on this website *is free,* and falls under a [Creative Commons Attribution Non-Commerical Share-Alike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
-This means **you can use our work, adapt our work, and share our work.** The only thing we ask in return is **you give credit where credit is due, and you promise to similarly make your additions to our work free, and open-source.** We started this project in an effort to foster collaboration on building a cleaner future. That is why we ask you keep your work open-source as well, so we all may build a cleaner world together.
+This means **you can use our work, adapt our work, and share our work for non-commerical use.** The only thing we ask in return is **you give credit where credit is due, and you promise to similarly make your additions to our work free, and open-source.** We started this project in an effort to foster collaboration on building a cleaner future. That is why we ask you keep your work open-source as well, so we all may build a cleaner world together. **Please additionally note that commercial licensing is avaliable, but please contact us for details.**
 
 ### Citing our Work
 
-When citing work released by us under [creative-commons](https://creativecommons.org/licenses/by-sa/4.0/), please refer to the [following style guide](https://creativecommons.org/use-remix/attribution/). We ask that you include a link to the original work, a link to our website, and a link to creative-commons.
+When citing work released by us under [creative-commons](https://creativecommons.org/licenses/by-nc-sa/4.0/), please refer to the [following style guide](https://wiki.creativecommons.org/wiki/best_practices_for_attribution). We ask that you include a link to the original work, a link to our website, and a link to creative-commons.
 
 ```
-[Title of Work](hyperlink) by the [MIT Electric Vehicle Team](https://evt.mit.edu) is licensed under a [CC BY-SA 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+[Title of Work](hyperlink) by the [MIT Electric Vehicle Team](https://evt.mit.edu) is licensed under a [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 ```
 
 When citing work by us published in journals, conferences, or similar **please refer to the citation requirements for the scientific formats associated with those journals.**
@@ -31,9 +31,9 @@ Obviously, uses must also abide by all local and international laws in the count
 
 ## Creative Commons
 
-Our work is licensed under a [Creative Commons Attribution Share-Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) because we believe that science is the prusuit of truth, and truth requires openness, and honesty. We also believe engineering is a team sport, and anyone choosing to use our work to build a better world should be able to do so free-of-charge.
+Our work is licensed under a [Creative Commons Attribution Non-Commerical Share-Alike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) because we believe that science is the prusuit of truth, and truth requires openness, and honesty. We also believe engineering is a team sport, and anyone choosing to use our work to build a better world should be able to do so free-of-charge.
 
-That being said this page is NOT a substitute for the license, please read the [full CREATIVE COMMONS LICENSE here](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+That being said this page is NOT a substitute for the license, please read the [full CREATIVE COMMONS LICENSE here](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).
 
 Please note that all parts of this license apply to our **publically released work.** Publically released work is work that has been released on this website, or on our [Github page](https://github.com/Licence-to-Fab) **and has a visible creative-commons tag attached to it** <i class="fa-brands fa-creative-commons"></i>.
 
@@ -71,7 +71,7 @@ If you want to work with us or you are confused about the MIT Use of Name policy
 
 Please note that while we will do our absolute best to release technology that is SAFE, and we will do our best to warn you of all possible dangers relating to the technology, it's important to remember that our work is a large experiment. Safety when dealing with hydrogen gas, lithium batteries, motors, and racing vehicles is absolutely critical. You and your organization should develop your OWN safety plan in addition to any safety plans we publically release.
 
-The [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/legalcode) states that we don't accept any responsibility for unforseen issues that arise from our technology. That is to say, SAFETY IS ON YOU.
+The [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en) states that we don't accept any responsibility for unforseen issues that arise from our technology. That is to say, SAFETY IS ON YOU.
 
 However, we aren't heartless people. If you find a serious safety issue with our engineering. We want to know ASAP so we can fix it. That's the spirit of open source. We will make mistakes, but we'll also fix them together. So we can't offer any compensation for any safety issues that may arise, but we promise to work with you in good faith to fix them. Work with us, and we'll work with you. Report any concerns to [l2f@mit.edu](mailto:l2f@mit.edu) with the subject line "SAFETY."
 

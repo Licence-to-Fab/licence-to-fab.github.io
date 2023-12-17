@@ -40,10 +40,12 @@ So while we wish to develop vehicle technology to the point of implementation, o
 
 #### Coming Soon! See you there!
 
-[Hydrogen America's Summit 2023—Washington DC](https://www.hydrogen-americas-summit.com)
+[Consumer Electronics Show 2024—Las Vegas, NV](https://www.ces.tech)
 
 #### Future Events
 
-[Consumer Electronics Show 2024—Las Vegas, NV](https://www.ces.tech)
-
 [World Hydrogen Summit 2024—Rotterdam, NL](https://www.world-hydrogen-summit.com)
+
+#### Past Events
+
+[Hydrogen America's Summit 2023—Washington DC](https://www.hydrogen-americas-summit.com)! See Adi's [interview](https://www.youtube.com/watch?v=ZpDTL_1tm_0) and Ebby's [interview](https://www.youtube.com/watch?v=EJznzb462qE) from HAS 2023.
