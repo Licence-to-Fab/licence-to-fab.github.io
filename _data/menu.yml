@@ -35,9 +35,12 @@ main:
   - name: About
     url: /about/
     weight: 3
+  - name: Donate
+    url: https://giving.mit.edu/form/?fundId=2742467&source=WBMPP#/
+    weight: 4
   - name: Contact
     url: mailto:l2f@mit.edu
-    weight: 4
+    weight: 5
   
 
 footer_primary:

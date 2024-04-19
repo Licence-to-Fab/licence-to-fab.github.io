@@ -1,15 +1,4 @@
-I"@<h1 id="our-research-areas--goals">Our Research Areas + Goals</h1>
-
-<p>In the simplest terms, our research goals as a group focus on making Hydrogen work in the real world, and we mean this across their entire implementation-chain. Our full 2023 report on our research goals is linked below, but a short summary of the main points is presented here.</p>
-
-<ul>
-  <li>Much academic research into Hydrogen vehicles is evaluated in simulation due to the high cost to develop and accurately test hardware.</li>
-  <li>Few educational opportunities exist for students to get hands-on experience in Hydrogen (vehicles or otherwise).</li>
-  <li>Infrastructure development is critical, but stalled due to the lack of demand-side applications, many of which are in the prototype stage, and are seeing slow adoption in new applications.</li>
-  <li>Demonstration projects by the <a href="https://www.iea.org/reports/the-need-for-net-zero-demonstration-projects">IEA’s definition</a> focusing on hydrogen are slim, and more focus is needed to make Hydrogen systems a reality.</li>
-</ul>
-
-<p>So while we wish to develop vehicle technology to the point of implementation, our research will take into consideration the broader contexts of infrastructure, and resource development for research and education. <strong>Our focus will be to ground ourselves in implementation plans such as the IEA’s Net-Zero Emissions by 2050 plan.</strong></p>
+I"<h1 id="our-research-areas--goals">Our Research Areas + Goals</h1>
 
 <div id="afdc-stations"><div id="afdc-stations-loading">Loading alternative fueling station locator...</div></div>
 <script type="text/javascript">window.afdcStationsOptions = {"country":"all","localeCountry":"US","path":"/find/nearest","query":{}}</script>
@@ -38,13 +27,15 @@
 
 <h4 id="coming-soon-see-you-there">Coming Soon! See you there!</h4>
 
-<p><a href="https://www.ces.tech">Consumer Electronics Show 2024—Las Vegas, NV</a></p>
+<p>N/A (we’ll keep you updated)</p>
 
 <h4 id="future-events">Future Events</h4>
 
 <p><a href="https://www.world-hydrogen-summit.com">World Hydrogen Summit 2024—Rotterdam, NL</a></p>
 
 <h4 id="past-events">Past Events</h4>
+
+<p><a href="https://www.ces.tech">Consumer Electronics Show 2024—Las Vegas, NV</a></p>
 
 <p><a href="https://www.hydrogen-americas-summit.com">Hydrogen America’s Summit 2023—Washington DC</a>! See Adi’s <a href="https://www.youtube.com/watch?v=ZpDTL_1tm_0">interview</a> and Ebby’s <a href="https://www.youtube.com/watch?v=EJznzb462qE">interview</a> from HAS 2023.</p>
 :ET
