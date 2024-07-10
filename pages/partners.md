@@ -29,8 +29,8 @@ If you are interested in becoming a partner [see our partner kit for more inform
 
 ### Primary Partners
 
-| <img src="../../sponsor_logos/ec/logo_black.svg"  width="300"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/d-lab/logo.png"  width="300">| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/ducati/logo.png"  width="350"> |
-|[MIT Edgerton Center](https://edgerton.mit.edu)||[MIT D-Lab](https://d-lab.mit.edu)|| [Ducati Motor Holding](https://www.ducati.com/us/en/home) |
+| <img src="../../sponsor_logos/ec/logo_black.svg"  width="300"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/d-lab/logo.png"  width="300">| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|[MIT Edgerton Center](https://edgerton.mit.edu)||[MIT D-Lab](https://d-lab.mit.edu)|
 
 | <img src="../../sponsor_logos/perg/logo.png"  width="100"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="../../sponsor_logos/ei/logo.png"  width="200"> |
 | [MIT PERG](https://pergatory.mit.edu) || [MIT Energy Initiative](https://energy.mit.edu) |
